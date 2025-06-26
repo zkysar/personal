@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events - Zach Kysar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Barlow', sans-serif;
+            line-height: 1.6;
+            background-color: #DCD7C9;
+        }
+        header {
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            color: #2C3930;
+            font-size: 3.2rem;
+            font-weight: 600;
+            letter-spacing: 1.5px;
+        }
+        .events-container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        .event-card {
+            background-color: #3F4F44;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            color: #DCD7C9;
+        }
+        .event-card h2 {
+            color: #A27B5C;
+            margin-top: 0;
+            font-size: 2rem;
+            font-weight: 600;
+        }
+        .event-card p {
+            margin-bottom: 1rem;
+        }
+        .event-stats {
+            display: inline-block;
+            background-color: #2C3930;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+        }
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 100;
+            background-color: #3F2305;
+            color: #F2EAD3;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .back-button:hover {
+            background-color: #5c3307;
+            transform: translateY(-2px);
+        }
+    </style>
+    <link rel="icon" href="images/favicon/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <a href="index.html" class="back-button">← Back</a>
+    <header>
+        <h1>Events</h1>
+    </header>
+    <div class="events-container">
+        <div class="event-card">
+            <h2><a href="https://www.meetup.com/san-francisco-japanese-language-exchange/" style="color: #A27B5C; text-decoration: none;">Japanese Language Exchange <i class="fas fa-external-link-alt" style="font-size: 0.8em;"></i></a></h2>
+            <p>A vibrant community dedicated to Japanese language learning and cultural exchange. Our members range from complete beginners to native speakers, creating an inclusive environment for everyone interested in Japanese language and culture.</p>
+            <p>We organize regular meetups where participants can practice their Japanese conversation skills, make new friends, and learn about Japanese culture in a welcoming atmosphere.</p>
+            <div class="event-stats">
+                <i class="fas fa-users"></i> Almost 700 members as of June 2025
+            </div>
+        </div>
+        <div class="event-card">
+            <h2><a href="https://sf-frens.org/" style="color: #A27B5C; text-decoration: none;">SF Frens Zine Events <i class="fas fa-external-link-alt" style="font-size: 0.8em;"></i></a></h2>
+            <p>SF Frens is a supportive community for creative growth based in San Francisco. We produce a biannual zine featuring short stories, poetry, art, and experimental content like crosswords, weather data visualizations, and maps.</p>
+            <p>Each zine edition is celebrated with a launch party that doubles as an open mic event, creating opportunities for community expression and connection. With four editions published so far, we continue to grow and welcome new contributors to our creative community.</p>
+            <div class="event-stats">
+                <i class="fas fa-users"></i> Four editions published as of June 2025
+            </div>
+        </div>
+    </div>
+</body>
+</html>

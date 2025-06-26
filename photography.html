@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography - Zach Kysar</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #F5F5F5;
+            font-family: 'Courier New', Courier, monospace;
+            color: #3F2305;
+        }
+
+        .gallery-groups {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+            padding: 2rem;
+        }
+
+        .group-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .group-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .group-cover {
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+        }
+
+        .group-cover img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+
+        .group-card:hover .group-cover img {
+            transform: scale(1.1);
+        }
+
+        .group-info {
+            padding: 1.5rem;
+        }
+
+        .group-info h2 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.4rem;
+        }
+
+        .group-info p {
+            margin: 0;
+            color: #666;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.9);
+            z-index: 1000;
+            padding: 2rem;
+            overflow-y: auto;
+        }
+
+        .modal-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            color: white;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            padding: 0.5rem;
+        }
+
+        .modal-gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .modal-image {
+            aspect-ratio: 1;
+            overflow: hidden;
+            border-radius: 4px;
+        }
+
+        .modal-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .modal-image img:hover {
+            transform: scale(1.05);
+        }
+
+        .fullscreen-view {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.95);
+            z-index: 2000;
+            padding: 2rem;
+            overflow: hidden;
+        }
+
+        .fullscreen-image {
+            max-width: 100%;
+            max-height: 90vh;
+            margin: 0 auto;
+            display: block;
+            object-fit: contain;
+        }
+
+        .fullscreen-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            padding: 0.5rem;
+            z-index: 2001;
+        }
+
+        .fullscreen-loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 1.2rem;
+        }
+
+        .back-button {
+            display: inline-block;
+            background-color: #3F2305;
+            color: #F2EAD3;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .back-button:hover {
+            background-color: #DFD7BF;
+            color: #3F2305;
+            transform: translateY(-2px);
+        }
+    </style>
+    <link rel="icon" href="images/favicon/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <a href="index.html" class="back-button">← Back</a>
+    <div class="gallery-groups" id="gallery-groups"></div>
+
+    <div class="modal" id="group-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title"></h2>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <p id="modal-description"></p>
+            <div class="modal-gallery" id="modal-gallery"></div>
+        </div>
+    </div>
+
+    <div class="fullscreen-view" id="fullscreen-view">
+        <button class="fullscreen-close" onclick="closeFullscreen()">&times;</button>
+        <div class="fullscreen-loading" id="fullscreen-loading">Loading a very high-resolution image, this may take a few seconds...</div>
+        <img id="fullscreen-image" class="fullscreen-image" alt="Full resolution photo">
+    </div>
+
+    <script>
+        let galleryData = null;
+
+        async function loadGalleryData() {
+            try {
+                const response = await fetch('images/photography/gallery-config.json');
+                galleryData = await response.json();
+                renderGalleryGroups();
+            } catch (error) {
+                console.error('Error loading gallery data:', error);
+            }
+        }
+
+        function renderGalleryGroups() {
+            const container = document.getElementById('gallery-groups');
+            galleryData.groups.forEach(group => {
+                const groupCard = document.createElement('div');
+                groupCard.className = 'group-card';
+                groupCard.onclick = () => openGroupModal(group);
+
+                groupCard.innerHTML = `
+                    <div class="group-cover">
+                        <img loading="lazy" 
+                             src="https://zkysar-photography.s3.amazonaws.com/${group.coverImage}" 
+                             alt="${group.title}">
+                    </div>
+                    <div class="group-info">
+                        <h2>${group.title}</h2>
+                        <p>${group.description}</p>
+                    </div>
+                `;
+
+                container.appendChild(groupCard);
+            });
+        }
+
+        function openGroupModal(group) {
+            const modal = document.getElementById('group-modal');
+            const modalTitle = document.getElementById('modal-title');
+            const modalDescription = document.getElementById('modal-description');
+            const modalGallery = document.getElementById('modal-gallery');
+
+            modalTitle.textContent = group.title;
+            modalDescription.textContent = group.description;
+            modalGallery.innerHTML = '';
+
+            group.images.forEach(image => {
+                const imgContainer = document.createElement('div');
+                imgContainer.className = 'modal-image';
+                imgContainer.innerHTML = `
+                    <img loading="lazy" 
+                         src="https://zkysar-photography.s3.amazonaws.com/${image.compressed}" 
+                         data-original="https://zkysar-photography.s3.amazonaws.com/${image.original}"
+                         alt="${group.title}">
+                `;
+                imgContainer.querySelector('img').addEventListener('click', function() {
+                    openFullscreen(this.getAttribute('data-original'));
+                });
+                modalGallery.appendChild(imgContainer);
+            });
+
+            modal.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('group-modal');
+            modal.style.display = 'none';
+            document.body.style.overflow = 'auto';
+            closeFullscreen();
+        }
+
+        function openFullscreen(imagePath) {
+            const fullscreenView = document.getElementById('fullscreen-view');
+            const fullscreenImage = document.getElementById('fullscreen-image');
+            const loadingIndicator = document.getElementById('fullscreen-loading');
+            
+            fullscreenView.style.display = 'block';
+            loadingIndicator.style.display = 'block';
+            fullscreenImage.style.display = 'none';
+
+            // Load the high-resolution image
+            fullscreenImage.onload = function() {
+                loadingIndicator.style.display = 'none';
+                fullscreenImage.style.display = 'block';
+            };
+            
+            fullscreenImage.src = imagePath;
+        }
+
+        function closeFullscreen() {
+            const fullscreenView = document.getElementById('fullscreen-view');
+            fullscreenView.style.display = 'none';
+        }
+
+        // Close modal when clicking outside of modal-content
+        document.getElementById('group-modal').addEventListener('click', (e) => {
+            if (e.target.id === 'group-modal') {
+                closeModal();
+            }
+        });
+
+        // Close fullscreen when clicking outside the image
+        document.getElementById('fullscreen-view').addEventListener('click', (e) => {
+            if (e.target.id === 'fullscreen-view') {
+                closeFullscreen();
+            }
+        });
+
+        // Handle escape key to close fullscreen and modal
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeFullscreen();
+                closeModal();
+            }
+        });
+
+        // Load gallery data when page loads
+        loadGalleryData();
+    </script>
+</body>
+</html>

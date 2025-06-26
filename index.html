@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zach Kysar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Barlow', sans-serif;
+            line-height: 1.6;
+            background-color: #DCD7C9;
+        }
+        header {
+            background-color: #2C3930;
+            padding: 4rem 2rem;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #3F4F44;
+        }
+        h1 {
+            margin: 0;
+            color: #DCD7C9;
+            font-size: 3.2rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+        .interests {
+            background-color: #2C3930;
+            padding: 3rem 2rem;
+        }
+        .interests h2 {
+            color: #A27B5C;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+        .interests-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .interests-list li {
+            margin-bottom: 1rem;
+        }
+        .interests-list a {
+            color: #A27B5C;
+            text-decoration: none;
+            font-size: 1.3rem;
+            font-weight: 300;
+            letter-spacing: 0.2px;
+            transition: all 0.3s ease;
+            display: inline-block;
+            transform-origin: left center;
+        }
+        .interests-list a:hover {
+            color: #DCD7C9;
+            transform: scale(1.05);
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .social-links {
+            background-color: #DCD7C9;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .social-links h2 {
+            color: #4A4947;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .social-icon {
+            color: #3F4F44;
+            font-size: 2rem;
+            transition: transform 0.3s ease, color 0.3s ease;
+            text-decoration: none;
+        }
+
+        .social-icon:hover {
+            transform: translateY(-5px);
+            color: #A27B5C;
+        }
+
+        .social-icon span {
+            display: block;
+            font-size: 0.9rem;
+            font-weight: 300;
+            margin-top: 0.5rem;
+            color: #3F4F44;
+        }
+    </style>
+    <link rel="icon" href="images/favicon/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <img src="images/profile.png" alt="Zach Kysar" class="profile-image">
+        <h1>Zach Kysar</h1>
+    </header>
+    <section class="interests">
+        <h2>I am...</h2>
+        <ul class="interests-list">
+            <li><a href="https://www.linkedin.com/in/zkysar/">a developer → Connect on LinkedIn</a></li>
+            <li><a href="photography.html">a photographer → View my gallery</a></li>
+            <li><a href="musician.html">a musician → See some of my work</a></li>
+            <li><a href="events.html">a event organizer → Learn about the events</a></li>
+        </ul>
+    </section>
+
+    <section class="social-links">
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/zkysar/" class="social-icon" target="_blank">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="https://instagram.com/zachkysar" class="social-icon" target="_blank">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="mailto:zachkysar@gmail.com" class="social-icon">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
+    </section>
+</body>
+</html>

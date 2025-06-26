@@ -1,0 +1,58 @@
+{
+  "s3": {
+    "bucket": "zkysar-photography",
+    "region": "us-west-2",
+    "base_path": "photography"
+  },
+  "image_processing": {
+    "max_size": 1200,
+    "quality": 85,
+    "formats": [
+      ".jpg",
+      ".jpeg",
+      ".png"
+    ]
+  },
+  "paths": {
+    "gallery_config": "../images/photography/gallery-config.json",
+    "image_dirs": [
+      "../photography_collection/2025-07-14/tellme",
+      "../photography_collection/2025-07-14/soap",
+      "../photography_collection/2025-07-14/ian",
+      "../photography_collection/2025-07-14/connor",
+      "../photography_collection/2025-06-06",
+      "../photography_collection/2025-05-26",
+      "../photography_collection/2025-05-24/donttellkate",
+      "../photography_collection/2025-05-24/connormorrison",
+      "../photography_collection/2025-05-24/chemlab",
+      "../photography_collection/2025-05-01/avidx",
+      "../photography_collection/2025-05-01/rowanblack",
+      "../photography_collection/2025-05-01/failuretoappear",
+      "../photography_collection/2025-05-01/traumacheez",
+      "../photography_collection/2025-04-05/yohito",
+      "../photography_collection/2025-04-05/moonlightmafia",
+      "../photography_collection/2025-04-05/jun",
+      "../photography_collection/2025-04-05/famichiken",
+      "../photography_collection/2025-03-30/quincampoix",
+      "../photography_collection/2025-03-30/onett",
+      "../photography_collection/2025-03-30/ochamememe",
+      "../photography_collection/2024-12-07",
+      "../photography_collection/2024-11-17/luke",
+      "../photography_collection/2024-11-16/yendawg",
+      "../photography_collection/2024-11-16/jeff",
+      "../photography_collection/2024-11-16/grant",
+      "../photography_collection/2024-11-05/ofwhatremains",
+      "../photography_collection/2024-11-05/mateo",
+      "../photography_collection/2024-11-05/intica",
+      "../photography_collection/2024-10-18/Lizze",
+      "../photography_collection/2024-10-18/Gavi",
+      "../photography_collection/2024-10-18/Cupcup",
+      "../photography_collection/2024-08-28/MCC",
+      "../photography_collection/2024-08-28/IYSS",
+      "../photography_collection/2024-08-28/HI4H",
+      "../photography_collection/2024-08-22/stephgreen",
+      "../photography_collection/2024-08-22/duffthompson",
+      "../photography_collection/2024-05-25"
+    ]
+  }
+}
