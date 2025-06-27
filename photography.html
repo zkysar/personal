@@ -94,12 +94,18 @@
         }
 
         .modal-close {
-            background: none;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: transparent;
             border: none;
             color: white;
-            font-size: 2rem;
+            font-size: 1.5rem;
             cursor: pointer;
             padding: 0.5rem;
+            transition: color 0.3s ease;
         }
 
         .modal-gallery {
@@ -147,17 +153,34 @@
             object-fit: contain;
         }
 
-        .fullscreen-close {
+        .fullscreen-controls {
             position: absolute;
             top: 20px;
             right: 20px;
-            background: none;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            z-index: 2001;
+        }
+
+        .fullscreen-controls button {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: transparent;
             border: none;
             color: white;
-            font-size: 2rem;
+            font-size: 1.5rem;
             cursor: pointer;
             padding: 0.5rem;
-            z-index: 2001;
+            transition: color 0.3s ease;
+        }
+
+        .fullscreen-close:hover,
+        .fullscreen-download:hover {
+            color: #DFD7BF;
         }
 
         .fullscreen-loading {
@@ -188,6 +211,7 @@
         }
     </style>
     <link rel="icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <a href="index.html" class="back-button">← Back</a>
@@ -197,7 +221,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h2 id="modal-title"></h2>
-                <button class="modal-close" onclick="closeModal()">&times;</button>
+                <button class="modal-close" onclick="closeModal()"><i class="fas fa-times"></i></button>
             </div>
             <p id="modal-description"></p>
             <div class="modal-gallery" id="modal-gallery"></div>
@@ -205,7 +229,10 @@
     </div>
 
     <div class="fullscreen-view" id="fullscreen-view">
-        <button class="fullscreen-close" onclick="closeFullscreen()">&times;</button>
+        <div class="fullscreen-controls">
+            <button class="fullscreen-download" onclick="downloadFullImage()"><i class="fas fa-download"></i></button>
+            <button class="fullscreen-close" onclick="closeFullscreen()"><i class="fas fa-times"></i></button>
+        </div>
         <div class="fullscreen-loading" id="fullscreen-loading">Loading a very high-resolution image, this may take a few seconds...</div>
         <img id="fullscreen-image" class="fullscreen-image" alt="Full resolution photo">
     </div>
@@ -266,7 +293,7 @@
                          alt="${group.title}">
                 `;
                 imgContainer.querySelector('img').addEventListener('click', function() {
-                    openFullscreen(this.getAttribute('data-original'));
+                    openFullscreen(this.getAttribute('src'));
                 });
                 modalGallery.appendChild(imgContainer);
             });
@@ -290,6 +317,10 @@
             fullscreenView.style.display = 'block';
             loadingIndicator.style.display = 'block';
             fullscreenImage.style.display = 'none';
+
+            // Get and set the original high-res image
+            const originalPath = document.querySelector(`img[src="${imagePath}"]`).dataset.original;
+            fullscreenImage.dataset.original = originalPath;
 
             // Load the high-resolution image
             fullscreenImage.onload = function() {
@@ -326,6 +357,19 @@
                 closeModal();
             }
         });
+
+        function downloadFullImage() {
+            const fullscreenImage = document.getElementById('fullscreen-image');
+            const originalUrl = fullscreenImage.dataset.original;
+            
+            // Create a temporary link to trigger the download
+            const link = document.createElement('a');
+            link.href = originalUrl;
+            link.download = originalUrl.split('/').pop(); // Use the filename from the URL
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
 
         // Load gallery data when page loads
         loadGalleryData();
