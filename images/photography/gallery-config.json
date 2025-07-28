@@ -35,6 +35,7 @@
         }
       ],
       "coverImage": "photography/yendawg/compressed/DSC02214-Enhanced-NR-compressed.jpg",
+      "featured_image": "DSC02214-Enhanced-NR.jpg",
       "url": "https://www.instagram.com/yendawg/"
     },
     {
@@ -62,7 +63,9 @@
           "compressed": "photography/jeff/compressed/DSC02711-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/jeff/compressed/DSC02552-Enhanced-NR-compressed.jpg"
+      "coverImage": "photography/jeff/compressed/DSC02769-Enhanced-NR-2-compressed.jpg",
+      "featured_image": "DSC02769-Enhanced-NR-2.jpg",
+      "url": "https://www.instagram.com/jeffdraco/"
     },
     {
       "id": "grant",
@@ -92,7 +95,8 @@
           "compressed": "photography/grant/compressed/DSC03204-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/grant/compressed/DSC03050-Enhanced-NR-compressed.jpg",
+      "coverImage": "photography/grant/compressed/DSC03085-Enhanced-NR-compressed.jpg",
+      "featured_image": "DSC03085-Enhanced-NR.jpg",
       "url": "https://www.instagram.com/grant.claytor/"
     },
     {
@@ -261,7 +265,8 @@
           "compressed": "photography/yohito/compressed/DSC07488-compressed.jpg"
         }
       ],
-      "coverImage": "photography/yohito/compressed/DSC07485-compressed.jpg",
+      "coverImage": "photography/yohito/compressed/DSC07657-compressed.jpg",
+      "featured_image": "DSC07657.jpg",
       "url": "https://www.instagram.com/yuhito3/"
     },
     {
@@ -337,7 +342,8 @@
           "compressed": "photography/famichiken/compressed/DSC08803-compressed.jpg"
         }
       ],
-      "coverImage": "photography/famichiken/compressed/DSC08818-compressed.jpg"
+      "coverImage": "photography/famichiken/compressed/DSC08702-compressed.jpg",
+      "featured_image": "DSC08702.jpg"
     },
     {
       "id": "moonlightmafia",
@@ -517,7 +523,8 @@
           "compressed": "photography/moonlightmafia/compressed/DSC08552-compressed.jpg"
         }
       ],
-      "coverImage": "photography/moonlightmafia/compressed/DSC08371-compressed.jpg",
+      "coverImage": "photography/moonlightmafia/compressed/DSC08315-compressed.jpg",
+      "featured_image": "DSC08315.jpg",
       "url": "https://www.instagram.com/themoonlightmafia/"
     },
     {
@@ -560,7 +567,8 @@
           "compressed": "photography/jun/compressed/DSC07406-compressed.jpg"
         }
       ],
-      "coverImage": "photography/jun/compressed/DSC07457-compressed.jpg",
+      "coverImage": "photography/jun/compressed/DSC07423-compressed.jpg",
+      "featured_image": "DSC07423.jpg",
       "url": "https://www.instagram.com/junokada78/"
     },
     {
@@ -600,7 +608,8 @@
           "compressed": "photography/dump/compressed/DSC03799-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/dump/compressed/DSC03812-Enhanced-NR-compressed.jpg",
+      "coverImage": "photography/dump/compressed/DSC03551-Enhanced-NR-compressed.jpg",
+      "featured_image": "DSC03551-Enhanced-NR.jpg",
       "url": "https://www.instagram.com/dumpster.love/"
     },
     {
@@ -622,13 +631,14 @@
           "compressed": "photography/luke/compressed/DSC03370-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/luke/compressed/DSC03355-Enhanced-NR-compressed.jpg",
+      "coverImage": "photography/luke/compressed/DSC03351-Enhanced-NR-2-compressed.jpg",
+      "featured_image": "DSC03351-Enhanced-NR-2.jpg",
       "url": "https://www.instagram.com/luketodd_smith/"
     },
     {
       "id": "duffthompson",
       "title": "Duff Thompson",
-      "description": "Duff Thompson at Bottom of the Hill on 2024-08-22.",
+      "description": "Duff Thompson at the Bottom of the Hill in San Francisco on 2024-08-22.",
       "date_captured": "2024-08-22",
       "images": [
         {
@@ -653,13 +663,14 @@
           "compressed": "photography/duffthompson/compressed/DSC03413-compressed.jpg"
         }
       ],
-      "coverImage": "photography/duffthompson/compressed/DSC03423-compressed.jpg",
+      "coverImage": "photography/duffthompson/compressed/DSC03403-compressed.jpg",
+      "featured_image": "DSC03403.jpg",
       "url": "https://www.instagram.com/duff.thompson/"
     },
     {
       "id": "stephgreen",
       "title": "Steph Green",
-      "description": "Steph Green at Bottom of the Hill on 2024-08-22.",
+      "description": "Steph Green at the Bottom of the Hill in San Francisco on 2024-08-22.",
       "date_captured": "2024-08-22",
       "images": [
         {
@@ -679,12 +690,13 @@
         }
       ],
       "coverImage": "photography/stephgreen/compressed/DSC03347-compressed.jpg",
+      "featured_image": "DSC03347.jpg",
       "url": "https://www.instagram.com/stephgreensongs/"
     },
     {
       "id": "Cupcup",
-      "title": "Cup Cup playing in a backyard",
-      "description": "Cup Cup playing in a backyard on 2024-10-18.",
+      "title": "Cup Cup",
+      "description": "Cup Cup at a backyard on 2024-10-18.",
       "date_captured": "2024-10-18",
       "images": [
         {
@@ -697,13 +709,14 @@
           "compressed": "photography/Cupcup/compressed/DSC09561-compressed.jpg"
         }
       ],
-      "coverImage": "photography/Cupcup/compressed/DSC09838-compressed.jpg",
+      "coverImage": "photography/Cupcup/compressed/DSC09561-compressed.jpg",
+      "featured_image": "DSC09561.jpg",
       "url": "https://www.instagram.com/cupcup_theband/"
     },
     {
       "id": "Lizze",
       "title": "Lizzie Waters",
-      "description": "Lizzie Waters at playing in a backyard on 2024-10-18.",
+      "description": "Lizzie Waters at a backyard on 2024-10-18.",
       "date_captured": "2024-10-18",
       "images": [
         {
@@ -776,13 +789,14 @@
           "compressed": "photography/Lizze/compressed/DSC09664-compressed.jpg"
         }
       ],
-      "coverImage": "photography/Lizze/compressed/DSC09735-compressed.jpg",
+      "coverImage": "photography/Lizze/compressed/DSC09592-compressed.jpg",
+      "featured_image": "DSC09592.jpg",
       "url": "https://www.instagram.com/lizzie_waters/"
     },
     {
       "id": "Gavi",
       "title": "Gavi Silverman",
-      "description": "Gavi Silverman at playing in a backyard on 2024-10-18.",
+      "description": "Gavi Silverman at a backyard on 2024-10-18.",
       "date_captured": "2024-10-18",
       "images": [
         {
@@ -808,12 +822,13 @@
         }
       ],
       "coverImage": "photography/Gavi/compressed/DSC09906-compressed.jpg",
+      "featured_image": "DSC09561.jpg",
       "url": "https://www.instagram.com/gavisilverman/"
     },
     {
       "id": "tellme",
       "title": "Tell Me Tell Me",
-      "description": "Tell Me Tell Me at Kilowatt on 2025-06-14.",
+      "description": "Tell Me Tell Me at Kilowatt in San Francisco on 2025-06-14.",
       "date_captured": "2025-06-14",
       "images": [
         {
@@ -877,13 +892,14 @@
           "compressed": "photography/tellme/compressed/DSC06659-Enhanced-SR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/tellme/compressed/DSC06818-Enhanced-SR-compressed.jpg",
+      "coverImage": "photography/tellme/compressed/DSC06672-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC06672-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/tellmetellmeband/"
     },
     {
       "id": "ian",
       "title": "Ian Santilliano",
-      "description": "Ian Santilliano at Kilowatt on 2025-06-14.",
+      "description": "Ian Santilliano at Kilowatt in San Francisco on 2025-06-14.",
       "date_captured": "2025-06-14",
       "images": [
         {
@@ -908,13 +924,14 @@
           "compressed": "photography/ian/compressed/DSC08141-Enhanced-SR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/ian/compressed/DSC08086-Enhanced-SR-compressed.jpg",
+      "coverImage": "photography/ian/compressed/DSC06611-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC06611-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/ian_santillano/"
     },
     {
       "id": "connor",
       "title": "Connor Morrison",
-      "description": "Connor Morrison at Kilowatt on 2025-06-14.",
+      "description": "Connor Morrison at Kilowatt in San Francisco on 2025-06-14.",
       "date_captured": "2025-06-14",
       "images": [
         {
@@ -984,13 +1001,14 @@
           "compressed": "photography/connor/compressed/DSC08141-Enhanced-SR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/connor/compressed/DSC07393-Enhanced-SR-compressed.jpg",
+      "coverImage": "photography/connor/compressed/DSC07373-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC07373-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/connormorrisonmusic/"
     },
     {
       "id": "soap",
       "title": "The Soap Box Salute",
-      "description": "The Soap Box Salute at Kilowatt on 2025-06-14.",
+      "description": "The Soap Box Salute at Kilowatt in San Francisco on 2025-06-14.",
       "date_captured": "2025-06-14",
       "images": [
         {
@@ -1060,7 +1078,8 @@
           "compressed": "photography/soap/compressed/DSC07629-Enhanced-SR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/soap/compressed/DSC08004-Enhanced-SR-compressed.jpg",
+      "coverImage": "photography/soap/compressed/DSC07658-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC07658-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/thesoapboxsalute/"
     },
     {
@@ -1199,7 +1218,8 @@
           "compressed": "photography/tits/compressed/DSC09739-compressed.jpg"
         }
       ],
-      "coverImage": "photography/tits/compressed/DSC09443-compressed.jpg",
+      "coverImage": "photography/tits/compressed/DSC09152-compressed.jpg",
+      "featured_image": "DSC09152.jpg",
       "url": "https://www.instagram.com/furioustits/"
     },
     {
@@ -1207,8 +1227,232 @@
       "title": "Thrown Out Bones",
       "description": "Thrown Out Bones at the Rickshaw Stop in San Francisco on 2025-06-07.",
       "date_captured": "2025-06-07",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/bones/compressed/DSC00315-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00922-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01194-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00843-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01220-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00658-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00504-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01168-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01182-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00277-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01141-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01035-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00139-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00930-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01187-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00925-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00306-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00674-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00847-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09863-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01146-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01191-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01190-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01231-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00488-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00809-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00996-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00969-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00217-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00360-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01042-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00364-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01250-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00984-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01133-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01127-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01053-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00993-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00987-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00944-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00789-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00979-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00776-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09829-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01075-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09818-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01128-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09831-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00432-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09833-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01077-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01067-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01271-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00218-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01310-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01072-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01267-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00254-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01189-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01188-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01177-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00916-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00484-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00309-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00323-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00723-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00482-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01007-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01013-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC09881-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00292-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00293-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC01210-compressed.jpg"
+        },
+        {
+          "compressed": "photography/bones/compressed/DSC00640-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/bones/compressed/DSC01067-compressed.jpg",
+      "featured_image": "DSC01067.jpg",
       "url": "https://www.instagram.com/thrownoutbones/"
     },
     {
@@ -1216,8 +1460,64 @@
       "title": "Dinner for 4 playing",
       "description": "Dinner for 4 playing at the Outer Sunset Farmer's Market on 2025-05-26.",
       "date_captured": "2025-05-26",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06031-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06097-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06197-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06179-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06055-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06042-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06037-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06029-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06061-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06249-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06035-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06241-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06222-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06063-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06141-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06083-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06117-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dinnerfor4/compressed/DSC06162-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/dinnerfor4/compressed/DSC06061-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC06061-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/dinnerfor4.mp3/"
     },
     {
@@ -1225,35 +1525,283 @@
       "title": "Caroline, Flora, Lizzie, Tommy, and others",
       "description": "Caroline, Flora, Lizzie, Tommy, and others at the Bizzare Cafe, San Francisco on 2025-06-06.",
       "date_captured": "2025-06-06",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/lizzie/compressed/DSC06539-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06459-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06512-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06499-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06503-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06477-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06528-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06487-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06454-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06508-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06534-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06550-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06541-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06554-compressed.jpg"
+        },
+        {
+          "compressed": "photography/lizzie/compressed/DSC06543-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/lizzie/compressed/DSC06528-compressed.jpg",
+      "featured_image": "DSC06528.jpg",
       "url": "https://www.instagram.com/lizzie_waters/"
     },
     {
       "id": "intica",
       "title": "Intica",
-      "description": "Intica at Kilowatt on 2024-11-05.",
+      "description": "Intica at Kilowatt in San Francisco on 2024-11-05.",
       "date_captured": "2024-11-05",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/intica/compressed/DSC01171-2-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01343-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01257-2-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01257-2-2-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01422-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01171-2-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01201-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC00834-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01343-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC00965-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC00814-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01257-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC00965-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC00834-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01343-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01215-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01201-compressed.jpg"
+        },
+        {
+          "compressed": "photography/intica/compressed/DSC01171-2-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/intica/compressed/DSC00834-2-compressed.jpg",
+      "featured_image": "DSC00834-2.jpg",
       "url": "https://www.instagram.com/inticavibes/"
     },
     {
       "id": "mateo",
       "title": "Mateo Briscoe & The Slothbois",
-      "description": "Mateo Briscoe & The Slothbois at Kilowatt on 2024-11-05.",
+      "description": "Mateo Briscoe & The Slothbois at Kilowatt in San Francisco on 2024-11-05.",
       "date_captured": "2024-11-05",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/mateo/compressed/DSC00648-Enhanced-NR-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00648-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00658-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00755-Enhanced-NR-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00735-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00648-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00755-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00648-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00417-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00417-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00603-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00743-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00755-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00755-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00696-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00743-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00743-Enhanced-NR-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00743-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00521-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00534-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00521-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00696-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00696-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mateo/compressed/DSC00735-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/mateo/compressed/DSC00648-Enhanced-NR-3-compressed.jpg",
+      "featured_image": "DSC00648-Enhanced-NR-3.jpg",
       "url": "https://www.instagram.com/mateo_briscoe/"
     },
     {
       "id": "ofwhatremains",
       "title": "Of What Remains",
-      "description": "Of What Remains at Remains at Kilowatt on 2024-11-05.",
+      "description": "Of What Remains at Kilowatt in San Francisco on 2024-11-05.",
       "date_captured": "2024-11-05",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00063-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00133-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00040-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00040-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00071-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09974-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00029-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00063-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00063-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09974-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00158-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00158-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00133-Enhanced-NR-2-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09982-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00029-3-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00040-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00029-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00086-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00133-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09982-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC00090-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09982-Enhanced-NR-2-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ofwhatremains/compressed/DSC09982-Enhanced-NR-2-3-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/ofwhatremains/compressed/DSC00029-2-compressed.jpg",
+      "featured_image": "DSC00029-2.jpg",
       "url": "https://www.instagram.com/ofwhatremains00/"
     },
     {
@@ -1261,8 +1809,76 @@
       "title": "Ochamememe",
       "description": "Ochamememe at Live Haus in Shimokitazawa on 2025-03-30.",
       "date_captured": "2025-03-30",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06599-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06765-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06613-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06835-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06789-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06825-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06830-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06763-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06671-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06705-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06648-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06689-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06647-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06692-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06687-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06696-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06656-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06746-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06783-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06595-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06634-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ochamememe/compressed/DSC06741-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/ochamememe/compressed/DSC06613-compressed.jpg",
+      "featured_image": "DSC06613.jpg",
       "url": "https://www.instagram.com/ochamememe/"
     },
     {
@@ -1270,8 +1886,37 @@
       "title": "Quincampoix",
       "description": "Quincampoix at Live Haus in Shimokitazawa on 2025-03-30.",
       "date_captured": "2025-03-30",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06361-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06363-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06362-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06372-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06373-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06365-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06358-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06385-compressed.jpg"
+        },
+        {
+          "compressed": "photography/quincampoix/compressed/DSC06352-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/quincampoix/compressed/DSC06372-compressed.jpg",
+      "featured_image": "DSC06372.jpg",
       "url": "https://www.instagram.com/qcp_jp/"
     },
     {
@@ -1279,17 +1924,69 @@
       "title": "Onett",
       "description": "Onett at Live Haus in Shimokitazawa on 2025-03-30.",
       "date_captured": "2025-03-30",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/onett/compressed/DSC06314-compressed.jpg"
+        },
+        {
+          "compressed": "photography/onett/compressed/DSC06322-compressed.jpg"
+        },
+        {
+          "compressed": "photography/onett/compressed/DSC06323-compressed.jpg"
+        },
+        {
+          "compressed": "photography/onett/compressed/DSC06320-compressed.jpg"
+        },
+        {
+          "compressed": "photography/onett/compressed/DSC06324-compressed.jpg"
+        },
+        {
+          "compressed": "photography/onett/compressed/DSC06327-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/onett/compressed/DSC06322-compressed.jpg",
+      "featured_image": "DSC06322.jpg",
       "url": "https://www.instagram.com/onett1209/"
     },
     {
       "id": "space",
       "title": "Space Goat",
-      "description": "Space Goat at at the Faight Collective on 2024-05-25.",
+      "description": "Space Goat at the Faight Collective on 2024-05-25.",
       "date_captured": "2024-05-25",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/space/compressed/DSC03025-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC03024-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC03035-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC02984-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC02973-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC02963-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC02976-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC02961-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC03006-compressed.jpg"
+        },
+        {
+          "compressed": "photography/space/compressed/DSC03004-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/space/compressed/DSC02963-compressed.jpg",
+      "featured_image": "DSC02963.jpg",
       "url": "https://www.instagram.com/spacegoatjams/"
     },
     {
@@ -1297,8 +1994,46 @@
       "title": "Michael Michael Motorcycle",
       "description": "Michael Michael Motorcycle at the 4 Star Theater in San Francisco on 2025-07-10.",
       "date_captured": "2025-07-10",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/mike/compressed/DSC03146-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC03032-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02926-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC03186-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02992-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC03108-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02820-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02804-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02802-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC03128-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02873-compressed.jpg"
+        },
+        {
+          "compressed": "photography/mike/compressed/DSC02875-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/mike/compressed/DSC03032-compressed.jpg",
+      "featured_image": "DSC03032.jpg",
       "url": "https://www.instagram.com/michaelmichaelmotorcycleband/"
     },
     {
@@ -1306,8 +2041,52 @@
       "title": "The Revelator",
       "description": "The Revelator at 4 Star Theater in San Francisco on 2025-07-10.",
       "date_captured": "2025-07-10",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/rev/compressed/DSC01976-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02460-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02511-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC01928-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02149-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02345-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02220-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02736-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02695-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02441-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02646-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02532-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC02678-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rev/compressed/DSC01990-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/rev/compressed/DSC02149-compressed.jpg",
+      "featured_image": "DSC02149.jpg",
       "url": "https://www.instagram.com/asktherevelator/"
     },
     {
@@ -1315,8 +2094,40 @@
       "title": "Tin Can Talker",
       "description": "Tin Can Talker at 4 Star Theater in San Francisco on 2025-07-10.",
       "date_captured": "2025-07-10",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/tincan/compressed/DSC01426-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01582-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01378-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01693-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01656-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01842-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01728-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01771-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01439-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tincan/compressed/DSC01575-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/tincan/compressed/DSC01575-compressed.jpg",
+      "featured_image": "DSC01575.jpg",
       "url": "https://www.instagram.com/tincantalker/"
     },
     {
@@ -1324,8 +2135,22 @@
       "title": "Rowan Black",
       "description": "Rowan Black at O'Rielly's Pub in San Francisco on 2025-05-01.",
       "date_captured": "2025-05-01",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/rowanblack/compressed/DSC04839-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rowanblack/compressed/DSC04752-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rowanblack/compressed/DSC04788-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/rowanblack/compressed/DSC04809-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/rowanblack/compressed/DSC04788-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC04788-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/its_rowan_black/"
     },
     {
@@ -1333,8 +2158,46 @@
       "title": "Failure to Appear",
       "description": "Failure to Appear at O'Rielly's Pub in San Francisco on 2025-05-01.",
       "date_captured": "2025-05-01",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05003-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC04866-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05029-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC04905-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05019-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC04963-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05032-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC04849-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05146-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05057-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05117-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/failuretoappear/compressed/DSC05017-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/failuretoappear/compressed/DSC05017-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC05017-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/failuretoappearband/"
     },
     {
@@ -1342,8 +2205,46 @@
       "title": "Trauma Cheez",
       "description": "Trauma Cheez at O'Rielly's Pub in San Francisco on 2025-05-01.",
       "date_captured": "2025-05-01",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05230-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05266-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05290-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05204-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05239-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05286-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05178-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05273-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05194-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05335-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05347-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/traumacheez/compressed/DSC05157-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/traumacheez/compressed/DSC05230-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC05017-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/traumacheez/"
     },
     {
@@ -1351,35 +2252,169 @@
       "title": "Avidx",
       "description": "Avidx at O'Rielly's Pub in San Francisco on 2025-05-01.",
       "date_captured": "2025-05-01",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/avidx/compressed/DSC04685-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/avidx/compressed/DSC04617-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/avidx/compressed/DSC04709-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/avidx/compressed/DSC04646-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/avidx/compressed/DSC04696-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/avidx/compressed/DSC04685-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC04685-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/avidxmusic/"
     },
     {
       "id": "IYSS",
       "title": "If You Say So",
-      "description": "If You Say So at Bottom of the Hill on 2024-08-28.",
+      "description": "If You Say So at the Bottom of the Hill in San Francisco on 2024-08-28.",
       "date_captured": "2024-08-28",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/IYSS/compressed/DSC03581-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03580-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03543-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03540-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03592-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03553-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03493-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03524-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03461-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03588-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03562-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03602-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03571-compressed.jpg"
+        },
+        {
+          "compressed": "photography/IYSS/compressed/DSC03638-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/IYSS/compressed/DSC03580-compressed.jpg",
+      "featured_image": "DSC03580.jpg",
       "url": "https://www.instagram.com/ifyousaysoband/"
     },
     {
       "id": "MCC",
       "title": "Mid Course Correction",
-      "description": "Mid Course Correction at Bottom of the Hill on 2024-08-28.",
+      "description": "Mid Course Correction at the Bottom of the Hill in San Francisco on 2024-08-28.",
       "date_captured": "2024-08-28",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/MCC/compressed/DSC03755-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03682-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03660-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03814-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03645-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03661-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03689-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03705-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03699-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03675-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03797-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/MCC/compressed/DSC03693-2-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/MCC/compressed/DSC03693-2-compressed.jpg",
+      "featured_image": "DSC03693-2.jpg",
       "url": "https://www.instagram.com/midcoursecorrectiontrio/"
     },
     {
       "id": "HI4H",
       "title": "H is for Hector",
-      "description": "H is for Hector at Bottom of the Hill on 2024-08-28.",
+      "description": "H is for Hector at the Bottom of the Hill in San Francisco on 2024-08-28.",
       "date_captured": "2024-08-28",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/HI4H/compressed/DSC04007-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03974-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03977-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC04077-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03887-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03933-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC04053-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03890-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC04020-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC04034-compressed.jpg"
+        },
+        {
+          "compressed": "photography/HI4H/compressed/DSC03941-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/HI4H/compressed/DSC04020-compressed.jpg",
+      "featured_image": "DSC04020.jpg",
       "url": "https://www.instagram.com/his4hector/"
     },
     {
@@ -1387,8 +2422,37 @@
       "title": "Connor Morrison",
       "description": "Connor Morrison at O'Rielly's Pub in San Francisco on 2025-05-24.",
       "date_captured": "2025-05-24",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05841-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05992-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05911-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05951-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05994-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05893-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05902-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05999-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connormorrison/compressed/DSC05915-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/connormorrison/compressed/DSC05911-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC05911-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/connormorrisonmusic/"
     },
     {
@@ -1396,8 +2460,55 @@
       "title": "Don't Tell Kate",
       "description": "Don't Tell Kate at O'Rielly's Pub in San Francisco on 2025-05-24.",
       "date_captured": "2025-05-24",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05753-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05726-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05669-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05766-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05678-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05825-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05652-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05644-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05790-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05649-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05662-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05641-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05692-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05657-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/donttellkate/compressed/DSC05700-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/donttellkate/compressed/DSC05644-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC05644-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/donttellkate/"
     },
     {
@@ -1405,8 +2516,34 @@
       "title": "Chemlab",
       "description": "Chemlab at O'Rielly's Pub in San Francisco on 2025-05-24.",
       "date_captured": "2025-05-24",
-      "images": [],
-      "coverImage": "",
+      "images": [
+        {
+          "compressed": "photography/chemlab/compressed/DSC05586-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05613-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05596-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05603-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05639-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05591-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05636-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/chemlab/compressed/DSC05625-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/chemlab/compressed/DSC05603-Enhanced-SR-compressed.jpg",
+      "featured_image": "DSC05603-Enhanced-SR.jpg",
       "url": "https://www.instagram.com/chemlab_music/"
     }
   ]

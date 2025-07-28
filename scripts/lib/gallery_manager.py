@@ -43,6 +43,7 @@ class GalleryManager:
                 name = group_config.get('name', group_name)
                 location = group_config.get('location', '')
                 url = group_config.get('url', '')  # Extract URL if present
+                featured_image = group_config.get('featured_image', '')  # Extract featured image
                 
                 # Generate title from name
                 title = name
@@ -63,7 +64,8 @@ class GalleryManager:
                     'description': description,
                     'date_captured': date_captured,  # Add date from directory structure
                     'images': [],
-                    'coverImage': ''
+                    'coverImage': '',
+                    'featured_image': featured_image  # Store featured image from config
                 }
                 
                 # Add URL field if present in config
@@ -97,7 +99,42 @@ class GalleryManager:
 
         group['images'] = images
         if images:
-            group['coverImage'] = images[0]['compressed']
+            # Use featured_image if specified, otherwise fall back to first image
+            featured_image = group.get('featured_image', '')
+            if featured_image:
+                # Find the featured image in the images list
+                # Extract base filename without extension for matching
+                import os
+                featured_base = os.path.splitext(featured_image)[0]  # Remove .jpg extension
+                
+                featured_img = None
+                for img in images:
+                    if 'original' in img and img['original'].endswith(featured_image):
+                        featured_img = img
+                        break
+                    elif 'compressed' in img:
+                        # Extract the base filename from the compressed path
+                        compressed_path = img['compressed']
+                        compressed_filename = os.path.basename(compressed_path)  # Get just the filename
+                        compressed_base = os.path.splitext(compressed_filename)[0]  # Remove extension
+                        
+                        # Remove the '-compressed' suffix to get the original base name
+                        if compressed_base.endswith('-compressed'):
+                            compressed_base = compressed_base[:-11]  # Remove '-compressed'
+                        
+                        # Match the base names
+                        if featured_base == compressed_base:
+                            featured_img = img
+                            break
+            
+                if featured_img:
+                    group['coverImage'] = featured_img['compressed']
+                    print(f"Using featured image {featured_image} as cover for {group_id}")
+                else:
+                    print(f"Warning: Featured image {featured_image} not found for {group_id}, using first image")
+                    group['coverImage'] = images[0]['compressed']
+            else:
+                group['coverImage'] = images[0]['compressed']
 
         self._save_config()
 

@@ -190,20 +190,21 @@ def compress_images(source_dir, output_dir, quality=85, max_size=1200):
         except Exception as e:
             print(f"Error processing {filename}: {str(e)}")
 
-def process_group(config_path: str, group_id: str = None, source_dir: str = None) -> None:
+def process_group(config_path: str, group_id: str = None, source_dir: str = None, no_s3: bool = False) -> None:
     """Process images for a gallery group.
     
     Args:
         config_path: Path to configuration file
         group_id: Optional group ID override
         source_dir: Optional source directory override
+        no_s3: Skip S3 upload if True
     """
     try:
         # Initialize components
         config = Config(config_path)
         gallery_manager = GalleryManager(config.get_gallery_config_path())
         image_processor = ImageProcessor(config.get_image_processing_config())
-        s3_uploader = S3Uploader(config.get_s3_config())
+        s3_uploader = None if no_s3 else S3Uploader(config.get_s3_config())
         
         # Discover all group directories (directories containing images)
         photography_collection_path = config.get_photography_collection_path()
@@ -240,15 +241,21 @@ def process_group(config_path: str, group_id: str = None, source_dir: str = None
             print("\nPlease fix these issues before running the script.")
             raise SystemExit(1)
         
-        # Regenerate gallery config from scratch using all discovered group directories
-        print("\n=== Regenerating gallery configuration ===")
+        # STEP 1: Regenerate gallery config from scratch using all discovered group directories
+        print("\n=== STEP 1: Regenerating gallery configuration ===")
         gallery_manager.regenerate_from_groups(group_dirs)
+        print(f"✅ Gallery config completely updated with {len(group_dirs)} groups")
+        print(f"📁 Config saved to: {config.get_gallery_config_path()}")
+        print("\n🔍 Gallery config is now ready for debugging before S3 uploads begin.")
         
-        # Delete entire collection from S3 before re-uploading
-        print("\n=== Deleting existing collection from S3 ===")
+        # STEP 2: Delete entire collection from S3 before re-uploading
+        print("\n=== STEP 2: Deleting existing collection from S3 ===")
         if not s3_uploader.delete_collection():
             print("Warning: Failed to delete existing collection from S3. Continuing with upload...")
 
+        # STEP 3: Process images and upload to S3
+        print("\n=== STEP 3: Processing images and uploading to S3 ===")
+        
         # Use provided source dir or get all discovered group directories
         source_dirs = [source_dir] if source_dir else group_dirs
 
@@ -263,8 +270,8 @@ def process_group(config_path: str, group_id: str = None, source_dir: str = None
                 os.makedirs(compressed_dir)
 
             try:
-                # Step 1: Compress all images first
-                print(f"\n=== Step 1: Compressing images in {current_group_id} ===")
+                # Step 3a: Compress all images first
+                print(f"\n--- Step 3a: Compressing images in {current_group_id} ---")
                 image_files = []
                 for filename in os.listdir(source_dir):
                     if not image_processor.is_valid_image(filename):
@@ -305,34 +312,44 @@ def process_group(config_path: str, group_id: str = None, source_dir: str = None
                         'output_path': output_path
                     })
 
-                print(f"Compression complete. {len(image_files)} images ready for upload.")
+                print(f"Compression complete. {len(image_files)} images ready.")
 
-                # Step 2: Upload all compressed images
-                print(f"\n=== Step 2: Uploading compressed images ===")
-                for file_info in image_files:
-                    s3_keys = s3_uploader.get_s3_keys(
-                        current_group_id, file_info['filename'], file_info['compressed_filename']
-                    )
-                    
-                    compressed_url = s3_uploader.upload_file(
-                        file_info['output_path'], s3_keys['compressed']
-                    )
-                    
-                    if compressed_url:
-                        file_info['compressed_s3_key'] = s3_keys['compressed']
-                        file_info['compressed_url'] = compressed_url
-                        print(f"Uploaded compressed: {file_info['filename']}")
-                    else:
-                        print(f"Failed to upload compressed version of {file_info['filename']}")
-
-                # Add successfully uploaded compressed images to processed list
-                for file_info in image_files:
-                    if 'compressed_s3_key' in file_info:
+                if no_s3:
+                    # Skip S3 upload - just add local files to processed list
+                    print(f"\n--- Step 3b: Skipping S3 upload (--no-s3 flag set) ---")
+                    for file_info in image_files:
                         processed_images.append({
-                            "compressed": file_info['compressed_s3_key']
+                            "compressed": file_info['output_path']  # Use local path instead of S3 key
                         })
+                        print(f"Processed locally: {file_info['filename']}")
+                    print(f"\nLocal processing complete. {len(processed_images)} images compressed locally.")
+                else:
+                    # Step 3b: Upload all compressed images
+                    print(f"\n--- Step 3b: Uploading compressed images for {current_group_id} ---")
+                    for file_info in image_files:
+                        s3_keys = s3_uploader.get_s3_keys(
+                            current_group_id, file_info['filename'], file_info['compressed_filename']
+                        )
+                        
+                        compressed_url = s3_uploader.upload_file(
+                            file_info['output_path'], s3_keys['compressed']
+                        )
+                        
+                        if compressed_url:
+                            file_info['compressed_s3_key'] = s3_keys['compressed']
+                            file_info['compressed_url'] = compressed_url
+                            print(f"Uploaded compressed: {file_info['filename']}")
+                        else:
+                            print(f"Failed to upload compressed version of {file_info['filename']}")
 
-                print(f"\nUpload complete. {len(processed_images)} images successfully processed.")
+                    # Add successfully uploaded compressed images to processed list
+                    for file_info in image_files:
+                        if 'compressed_s3_key' in file_info:
+                            processed_images.append({
+                                "compressed": file_info['compressed_s3_key']
+                            })
+
+                    print(f"\nUpload complete. {len(processed_images)} images successfully processed.")
                         
             except Exception as e:
                 print(f"Error processing directory {source_dir}: {str(e)}")
@@ -359,10 +376,12 @@ def main():
                         help='Optional group ID. If not provided, directory names will be used as group IDs')
     parser.add_argument('--source-dir',
                         help='Optional source directory for images')
+    parser.add_argument('--no-s3', action='store_true',
+                        help='Skip S3 upload, only compress images locally')
     args = parser.parse_args()
 
     try:
-        process_group(args.config, args.group, args.source_dir)
+        process_group(args.config, args.group, args.source_dir, args.no_s3)
     except Exception as e:
         print(f"Error: {str(e)}")
         sys.exit(1)
