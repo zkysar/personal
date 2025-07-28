@@ -1,2467 +1,1413 @@
 {
   "groups": [
     {
-      "id": "tellme",
-      "title": "Tell Me Tell Me at Kilowatt",
-      "description": "Tell Me Tell Me performing at Kilowatt on 2025-07-14.",
-      "images": [
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06818-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06818-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06825-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06825-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC08086-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC08086-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC08112-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC08112-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06995-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06995-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC07107-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC07107-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06697-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06697-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC08193-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC08193-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06838-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06838-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06899-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06899-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06773-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06773-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06966-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06966-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC07088-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC07088-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06765-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06765-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06793-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06793-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06955-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06955-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC07052-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC07052-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06672-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06672-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC08141-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC08141-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/tellme/20250626/compressed/DSC06659-Enhanced-SR-compressed.jpg",
-          "original": "photography/tellme/20250626/original/DSC06659-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/tellme/20250626/compressed/DSC06818-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "soap",
-      "title": "The Soap Box Salute at Kilowatt",
-      "description": "The Soap Box Salute performing at Kilowatt on 2025-07-14.",
-      "images": [
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08004-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08004-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08086-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08086-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08112-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08112-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07904-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07904-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07831-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07831-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08052-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08052-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07694-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07694-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07942-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07942-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08030-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08030-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07765-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07765-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07996-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07996-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07658-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07658-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07712-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07712-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08193-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08193-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07603-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07603-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07781-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07781-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07620-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07620-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07638-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07638-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07605-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07605-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07769-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07769-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC08141-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC08141-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/soap/20250626/compressed/DSC07629-Enhanced-SR-compressed.jpg",
-          "original": "photography/soap/20250626/original/DSC07629-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/soap/20250626/compressed/DSC08004-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "ian",
-      "title": "Ian Santilliano at Kilowatt",
-      "description": "Ian Santilliano performing at Kilowatt on 2025-07-14.",
-      "images": [
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC08086-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC08086-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC08112-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC08112-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC08193-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC08193-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC06649-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC06649-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC06611-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC06611-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC06635-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC06635-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/ian/20250626/compressed/DSC08141-Enhanced-SR-compressed.jpg",
-          "original": "photography/ian/20250626/original/DSC08141-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/ian/20250626/compressed/DSC08086-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "connor",
-      "title": "Connor Morrison at Kilowatt",
-      "description": "Connor Morrison performing at Kilowatt on 2025-07-14.",
-      "images": [
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07393-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07393-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC08086-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC08086-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC08112-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC08112-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07285-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07285-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07472-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07472-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07373-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07373-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07334-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07334-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC08193-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC08193-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07204-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07204-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07545-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07545-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07255-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07255-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07381-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07381-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07537-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07537-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07460-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07460-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07160-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07160-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC08112-Enhanced-SR(1)-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC08112-Enhanced-SR(1).jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07198-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07198-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07567-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07567-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07428-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07428-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07221-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07221-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC07490-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC07490-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connor/20250626/compressed/DSC08141-Enhanced-SR-compressed.jpg",
-          "original": "photography/connor/20250626/original/DSC08141-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/connor/20250626/compressed/DSC07393-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "2025-06-06",
-      "title": "Caroline, Flora, Lizzie, Tommy, and others at the Bizzare Cafe, San Francisco",
-      "description": "Caroline, Flora, Lizzie, Tommy, and others at the Bizzare Cafe, San Francisco on 2025-06-06.",
-      "images": [
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06539-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06539.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06459-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06459.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06512-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06512.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06499-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06499.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06503-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06503.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06477-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06477.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06528-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06528.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06487-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06487.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06454-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06454.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06508-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06508.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06534-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06534.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06550-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06550.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06541-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06541.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06554-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06554.jpg"
-        },
-        {
-          "compressed": "photography/2025-06-06/20250626/compressed/DSC06543-compressed.jpg",
-          "original": "photography/2025-06-06/20250626/original/DSC06543.jpg"
-        }
-      ],
-      "coverImage": "photography/2025-06-06/20250626/compressed/DSC06539-compressed.jpg"
-    },
-    {
-      "id": "2025-05-26",
-      "title": "Dinner for 4 playing at the Outer Sunset Farmer's Market",
-      "description": "Dinner for 4 playing at the Outer Sunset Farmer's Market on 2025-05-26.",
-      "images": [
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06031-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06031-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06097-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06097-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06197-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06197-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06179-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06179-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06055-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06055-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06042-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06042-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06037-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06037-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06029-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06029-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06061-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06061-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06249-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06249-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06035-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06035-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06241-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06241-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06222-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06222-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06063-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06063-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06141-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06141-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06083-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06083-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06117-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06117-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/2025-05-26/20250626/compressed/DSC06162-Enhanced-SR-compressed.jpg",
-          "original": "photography/2025-05-26/20250626/original/DSC06162-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/2025-05-26/20250626/compressed/DSC06031-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "donttellkate",
-      "title": "Don't Tell Kate at O'Rielly's Pub in San Francisco",
-      "description": "Don't Tell Kate performing at O'Rielly's Pub in San Francisco on 2025-05-24.",
-      "images": [
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05753-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05753-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05726-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05726-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05669-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05669-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05766-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05766-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05678-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05678-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05825-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05825-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05652-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05652-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05644-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05644-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05790-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05790-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05649-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05649-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05662-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05662-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05641-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05641-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05692-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05692-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05657-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05657-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/donttellkate/20250626/compressed/DSC05700-Enhanced-SR-compressed.jpg",
-          "original": "photography/donttellkate/20250626/original/DSC05700-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/donttellkate/20250626/compressed/DSC05753-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "connormorrison",
-      "title": "Connor Morrison at O'Rielly's Pub in San Francisco",
-      "description": "Connor Morrison performing at O'Rielly's Pub in San Francisco on 2025-05-24.",
-      "images": [
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05841-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05841-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05992-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05992-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05911-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05911-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05951-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05951-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05994-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05994-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05893-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05893-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05902-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05902-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05999-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05999-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/connormorrison/20250626/compressed/DSC05915-Enhanced-SR-compressed.jpg",
-          "original": "photography/connormorrison/20250626/original/DSC05915-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/connormorrison/20250626/compressed/DSC05841-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "chemlab",
-      "title": "Chemlab at O'Rielly's Pub in San Francisco",
-      "description": "Chemlab performing at O'Rielly's Pub in San Francisco on 2025-05-24.",
-      "images": [
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05586-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05586-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05613-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05613-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05596-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05596-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05603-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05603-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05639-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05639-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05591-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05591-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05636-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05636-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/chemlab/20250626/compressed/DSC05625-Enhanced-SR-compressed.jpg",
-          "original": "photography/chemlab/20250626/original/DSC05625-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/chemlab/20250626/compressed/DSC05586-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "avidx",
-      "title": "Avidx Band Pictures",
-      "description": "Avidx Band Pictures taken outside of O'Rielly's Pub in San Francisco on 2025-05-01.",
-      "images": [
-        {
-          "compressed": "photography/avidx/20250626/compressed/DSC04685-Enhanced-SR-compressed.jpg",
-          "original": "photography/avidx/20250626/original/DSC04685-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/avidx/20250626/compressed/DSC04617-Enhanced-SR-compressed.jpg",
-          "original": "photography/avidx/20250626/original/DSC04617-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/avidx/20250626/compressed/DSC04709-Enhanced-SR-compressed.jpg",
-          "original": "photography/avidx/20250626/original/DSC04709-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/avidx/20250626/compressed/DSC04646-Enhanced-SR-compressed.jpg",
-          "original": "photography/avidx/20250626/original/DSC04646-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/avidx/20250626/compressed/DSC04696-Enhanced-SR-compressed.jpg",
-          "original": "photography/avidx/20250626/original/DSC04696-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/avidx/20250626/compressed/DSC04685-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "rowanblack",
-      "title": "Rowan Black at O'Rielly's Pub in San Francisco",
-      "description": "Rowan Black performing at O'Rielly's Pub in San Francisco on 2025-05-01.",
-      "images": [
-        {
-          "compressed": "photography/rowanblack/20250626/compressed/DSC04839-Enhanced-SR-compressed.jpg",
-          "original": "photography/rowanblack/20250626/original/DSC04839-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/rowanblack/20250626/compressed/DSC04752-Enhanced-SR-compressed.jpg",
-          "original": "photography/rowanblack/20250626/original/DSC04752-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/rowanblack/20250626/compressed/DSC04788-Enhanced-SR-compressed.jpg",
-          "original": "photography/rowanblack/20250626/original/DSC04788-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/rowanblack/20250626/compressed/DSC04809-Enhanced-SR-compressed.jpg",
-          "original": "photography/rowanblack/20250626/original/DSC04809-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/rowanblack/20250626/compressed/DSC04839-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "failuretoappear",
-      "title": "Failure to Appear at O'Rielly's Pub in San Francisco",
-      "description": "Failure to Appear performing at O'Rielly's Pub in San Francisco on 2025-05-01.",
-      "images": [
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05003-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05003-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC04866-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC04866-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05029-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05029-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC04905-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC04905-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05019-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05019-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC04963-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC04963-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05032-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05032-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC04849-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC04849-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05146-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05146-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05057-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05057-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05117-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05117-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/failuretoappear/20250626/compressed/DSC05017-Enhanced-SR-compressed.jpg",
-          "original": "photography/failuretoappear/20250626/original/DSC05017-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/failuretoappear/20250626/compressed/DSC05003-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "traumacheez",
-      "title": "Trauma Cheez at O'Rielly's Pub in San Francisco",
-      "description": "Trauma Cheez performing at O'Rielly's Pub in San Francisco on 2025-05-01.",
-      "images": [
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05230-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05230-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05266-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05266-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05290-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05290-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05204-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05204-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05239-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05239-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05286-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05286-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05178-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05178-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05273-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05273-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05194-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05194-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05335-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05335-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05347-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05347-Enhanced-SR.jpg"
-        },
-        {
-          "compressed": "photography/traumacheez/20250626/compressed/DSC05157-Enhanced-SR-compressed.jpg",
-          "original": "photography/traumacheez/20250626/original/DSC05157-Enhanced-SR.jpg"
-        }
-      ],
-      "coverImage": "photography/traumacheez/20250626/compressed/DSC05230-Enhanced-SR-compressed.jpg"
-    },
-    {
-      "id": "yohito",
-      "title": "Yohito at Ruby Room, Shibuya",
-      "description": "Yohito performing at Ruby Room, Shibuya on 2025-04-05.",
-      "images": [
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07485-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07485.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07877-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07877.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07731-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07731.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07692-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07692.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC08004-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC08004.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07492-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07492.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07874-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07874.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07875-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07875.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC08011-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC08011.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07737-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07737.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07864-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07864.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07657-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07657.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07496-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07496.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07494-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07494.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07537-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07537.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07720-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07720.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07683-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07683.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07627-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07627.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07784-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07784.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07746-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07746.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07815-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07815.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07750-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07750.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07591-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07591.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07989-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07989.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07782-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07782.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07768-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07768.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07965-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07965.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07780-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07780.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07757-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07757.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07565-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07565.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07834-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07834.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07567-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07567.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07943-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07943.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07604-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07604.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07985-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07985.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07824-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07824.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07763-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07763.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07777-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07777.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07574-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07574.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC08041-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC08041.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07507-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07507.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07499-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07499.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC08031-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC08031.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07470-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07470.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07855-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07855.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07712-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07712.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07698-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07698.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07883-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07883.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07930-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07930.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07884-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07884.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07927-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07927.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07891-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07891.jpg"
-        },
-        {
-          "compressed": "photography/yohito/20250626/compressed/DSC07488-compressed.jpg",
-          "original": "photography/yohito/20250626/original/DSC07488.jpg"
-        }
-      ],
-      "coverImage": "photography/yohito/20250626/compressed/DSC07485-compressed.jpg"
-    },
-    {
-      "id": "moonlightmafia",
-      "title": "Moonlight Mafia at Ruby Room, Shibuya",
-      "description": "Moonlight Mafia performing at Ruby Room, Shibuya on 2025-04-05.",
-      "images": [
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08371-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08371.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08359-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08359.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08600-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08600.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08548-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08548.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08366-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08366.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08372-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08372.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08602-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08602.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08405-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08405.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08388-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08388.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08376-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08376.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08598-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08598.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08229-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08229.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08299-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08299.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08474-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08474.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08676-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08676.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08689-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08689.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08677-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08677.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08311-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08311.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08089-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08089.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08274-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08274.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08315-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08315.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08473-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08473.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08261-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08261.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08079-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08079.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08643-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08643.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08680-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08680.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08483-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08483.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08252-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08252.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08318-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08318.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08683-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08683.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08127-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08127.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08319-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08319.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08331-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08331.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08286-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08286.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08292-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08292.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08080-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08080.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08335-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08335.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08081-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08081.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08242-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08242.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08295-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08295.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08322-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08322.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08444-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08444.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08685-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08685.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08684-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08684.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08230-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08230.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08379-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08379.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08582-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08582.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08622-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08622.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08391-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08391.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08226-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08226.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08550-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08550.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08157-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08157.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08625-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08625.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08624-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08624.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08368-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08368.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08585-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08585.jpg"
-        },
-        {
-          "compressed": "photography/moonlightmafia/20250626/compressed/DSC08552-compressed.jpg",
-          "original": "photography/moonlightmafia/20250626/original/DSC08552.jpg"
-        }
-      ],
-      "coverImage": "photography/moonlightmafia/20250626/compressed/DSC08371-compressed.jpg"
-    },
-    {
-      "id": "jun",
-      "title": "Jun at Ruby Room, Shibuya",
-      "description": "Jun performing at Ruby Room, Shibuya on 2025-04-05.",
-      "images": [
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07457-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07457.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07431-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07431.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07419-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07419.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07418-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07418.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07426-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07426.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07432-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07432.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07423-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07423.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07421-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07421.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07438-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07438.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07411-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07411.jpg"
-        },
-        {
-          "compressed": "photography/jun/20250626/compressed/DSC07406-compressed.jpg",
-          "original": "photography/jun/20250626/original/DSC07406.jpg"
-        }
-      ],
-      "coverImage": "photography/jun/20250626/compressed/DSC07457-compressed.jpg"
-    },
-    {
-      "id": "famichiken",
-      "title": "Famichiken at Ruby Room, Shibuya",
-      "description": "Famichiken performing at Ruby Room, Shibuya on 2025-04-05.",
-      "images": [
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08818-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08818.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08821-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08821.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08702-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08702.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08701-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08701.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08729-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08729.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08714-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08714.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08739-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08739.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08723-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08723.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08737-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08737.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08736-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08736.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08696-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08696.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08709-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08709.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08813-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08813.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08806-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08806.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08812-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08812.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08796-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08796.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08791-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08791.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08800-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08800.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08751-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08751.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08792-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08792.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08816-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08816.jpg"
-        },
-        {
-          "compressed": "photography/famichiken/20250626/compressed/DSC08803-compressed.jpg",
-          "original": "photography/famichiken/20250626/original/DSC08803.jpg"
-        }
-      ],
-      "coverImage": "photography/famichiken/20250626/compressed/DSC08818-compressed.jpg"
-    },
-    {
-      "id": "quincampoix",
-      "title": "Quincampoix at Live Haus in Shimokitazawa",
-      "description": "Quincampoix performing at Live Haus in Shimokitazawa on 2025-03-30.",
-      "images": [
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06361-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06361.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06363-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06363.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06362-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06362.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06372-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06372.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06373-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06373.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06365-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06365.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06358-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06358.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06385-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06385.jpg"
-        },
-        {
-          "compressed": "photography/quincampoix/20250626/compressed/DSC06352-compressed.jpg",
-          "original": "photography/quincampoix/20250626/original/DSC06352.jpg"
-        }
-      ],
-      "coverImage": "photography/quincampoix/20250626/compressed/DSC06361-compressed.jpg"
-    },
-    {
-      "id": "onett",
-      "title": "Onett at Live Haus in Shimokitazawa",
-      "description": "Onett performing at Live Haus in Shimokitazawa on 2025-03-30.",
-      "images": [
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06314-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06314.jpg"
-        },
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06322-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06322.jpg"
-        },
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06323-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06323.jpg"
-        },
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06320-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06320.jpg"
-        },
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06324-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06324.jpg"
-        },
-        {
-          "compressed": "photography/onett/20250626/compressed/DSC06327-compressed.jpg",
-          "original": "photography/onett/20250626/original/DSC06327.jpg"
-        }
-      ],
-      "coverImage": "photography/onett/20250626/compressed/DSC06314-compressed.jpg"
-    },
-    {
-      "id": "ochamememe",
-      "title": "Ochamememe at Live Haus in Shimokitazawa",
-      "description": "Ochamememe performing at Live Haus in Shimokitazawa on 2025-03-30.",
-      "images": [
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06599-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06599.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06765-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06765.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06613-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06613.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06835-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06835.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06789-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06789.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06825-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06825.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06830-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06830.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06763-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06763.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06671-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06671.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06705-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06705.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06648-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06648.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06689-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06689.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06647-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06647.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06692-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06692.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06687-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06687.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06696-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06696.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06656-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06656.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06746-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06746.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06783-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06783.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06595-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06595.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06634-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06634.jpg"
-        },
-        {
-          "compressed": "photography/ochamememe/20250626/compressed/DSC06741-compressed.jpg",
-          "original": "photography/ochamememe/20250626/original/DSC06741.jpg"
-        }
-      ],
-      "coverImage": "photography/ochamememe/20250626/compressed/DSC06599-compressed.jpg"
-    },
-    {
-      "id": "2024-12-07",
-      "title": "Dumpster Love at Golden Gate Park",
-      "description": "Dumpster Love performing at Golden Gate Park on 2024-12-07.",
-      "images": [
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03812-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03812-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03502-2-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03502-2-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03559-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03559-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03802-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03802-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03551-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03551-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03689-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03689-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03643-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03643-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03580-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03580-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03767-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03767-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/2024-12-07/20250626/compressed/DSC03799-Enhanced-NR-compressed.jpg",
-          "original": "photography/2024-12-07/20250626/original/DSC03799-Enhanced-NR.jpg"
-        }
-      ],
-      "coverImage": "photography/2024-12-07/20250626/compressed/DSC03812-Enhanced-NR-compressed.jpg"
-    },
-    {
-      "id": "luke",
-      "title": "Luke Todd Smith at Bridge and Tunnel Brewery",
-      "description": "Luke Todd Smith performing at Bridge and Tunnel Brewery on 2024-11-17.",
-      "images": [
-        {
-          "compressed": "photography/luke/20250626/compressed/DSC03355-Enhanced-NR-compressed.jpg",
-          "original": "photography/luke/20250626/original/DSC03355-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/luke/20250626/compressed/DSC03351-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/luke/20250626/original/DSC03351-Enhanced-NR-2.jpg"
-        },
-        {
-          "compressed": "photography/luke/20250626/compressed/DSC03376-compressed.jpg",
-          "original": "photography/luke/20250626/original/DSC03376.jpg"
-        },
-        {
-          "compressed": "photography/luke/20250626/compressed/DSC03370-Enhanced-NR-compressed.jpg",
-          "original": "photography/luke/20250626/original/DSC03370-Enhanced-NR.jpg"
-        }
-      ],
-      "coverImage": "photography/luke/20250626/compressed/DSC03355-Enhanced-NR-compressed.jpg"
-    },
-    {
       "id": "yendawg",
-      "title": "Yendawg at Cassette NYC",
-      "description": "Yendawg performing at Cassette NYC on 2024-11-16.",
+      "title": "Yendawg",
+      "description": "Yendawg at Cassette NYC on 2024-11-16.",
+      "date_captured": "2024-11-16",
       "images": [
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02214-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02214-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02214-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02296-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02296-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02296-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02504-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02504-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02504-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02190-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02190-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02190-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02188-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02188-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02188-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02245-Enhanced-NR 2-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02245-Enhanced-NR 2.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02245-Enhanced-NR 2-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02251-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02251-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02251-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02264-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02264-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02264-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/yendawg/20250626/compressed/DSC02319-Enhanced-NR-compressed.jpg",
-          "original": "photography/yendawg/20250626/original/DSC02319-Enhanced-NR.jpg"
+          "compressed": "photography/yendawg/compressed/DSC02319-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/yendawg/20250626/compressed/DSC02214-Enhanced-NR-compressed.jpg"
+      "coverImage": "photography/yendawg/compressed/DSC02214-Enhanced-NR-compressed.jpg",
+      "url": "https://www.instagram.com/yendawg/"
     },
     {
       "id": "jeff",
-      "title": "Jeff Draco at Cassette NYC",
-      "description": "Jeff Draco performing at Cassette NYC on 2024-11-16.",
+      "title": "Jeff Draco",
+      "description": "Jeff Draco at Cassette NYC on 2024-11-16.",
+      "date_captured": "2024-11-16",
       "images": [
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02552-Enhanced-NR-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02552-Enhanced-NR.jpg"
+          "compressed": "photography/jeff/compressed/DSC02552-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02681-Enhanced-NR-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02681-Enhanced-NR.jpg"
+          "compressed": "photography/jeff/compressed/DSC02681-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02676-Enhanced-NR-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02676-Enhanced-NR.jpg"
+          "compressed": "photography/jeff/compressed/DSC02676-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02769-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02769-Enhanced-NR-2.jpg"
+          "compressed": "photography/jeff/compressed/DSC02769-Enhanced-NR-2-compressed.jpg"
         },
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02659-Enhanced-NR-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02659-Enhanced-NR.jpg"
+          "compressed": "photography/jeff/compressed/DSC02659-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/jeff/20250626/compressed/DSC02711-Enhanced-NR-compressed.jpg",
-          "original": "photography/jeff/20250626/original/DSC02711-Enhanced-NR.jpg"
+          "compressed": "photography/jeff/compressed/DSC02711-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/jeff/20250626/compressed/DSC02552-Enhanced-NR-compressed.jpg"
+      "coverImage": "photography/jeff/compressed/DSC02552-Enhanced-NR-compressed.jpg"
     },
     {
       "id": "grant",
-      "title": "Grant at Cassette NYC",
-      "description": "Grant performing at Cassette NYC on 2024-11-16.",
+      "title": "Grant",
+      "description": "Grant at Cassette NYC on 2024-11-16.",
+      "date_captured": "2024-11-16",
       "images": [
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03050-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03050-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03050-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03033-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03033-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03033-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03150-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03150-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03150-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03085-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03085-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03085-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03011-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03011-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03011-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC02880-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC02880-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC02880-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/grant/20250626/compressed/DSC03204-Enhanced-NR-compressed.jpg",
-          "original": "photography/grant/20250626/original/DSC03204-Enhanced-NR.jpg"
+          "compressed": "photography/grant/compressed/DSC03204-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/grant/20250626/compressed/DSC03050-Enhanced-NR-compressed.jpg"
+      "coverImage": "photography/grant/compressed/DSC03050-Enhanced-NR-compressed.jpg",
+      "url": "https://www.instagram.com/grant.claytor/"
     },
     {
-      "id": "ofwhatremains",
-      "title": "Of What Remains at Kilowatt",
-      "description": "Of What Remains at Kilowatt on 2024-11-05.",
+      "id": "yohito",
+      "title": "Yohito",
+      "description": "Yohito at Ruby Room, Shibuya on 2025-04-05.",
+      "date_captured": "2025-04-05",
       "images": [
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00063-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00063.jpg"
+          "compressed": "photography/yohito/compressed/DSC07485-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00133-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00133-Enhanced-NR-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07877-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00040-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00040-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07731-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00040-3-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00040-3.jpg"
+          "compressed": "photography/yohito/compressed/DSC07692-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00071-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00071.jpg"
+          "compressed": "photography/yohito/compressed/DSC08004-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09974-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09974-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07492-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00029-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00029.jpg"
+          "compressed": "photography/yohito/compressed/DSC07874-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00063-3-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00063-3.jpg"
+          "compressed": "photography/yohito/compressed/DSC07875-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00063-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00063-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC08011-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09974-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09974.jpg"
+          "compressed": "photography/yohito/compressed/DSC07737-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00158-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00158-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07864-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00158-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00158.jpg"
+          "compressed": "photography/yohito/compressed/DSC07657-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00133-Enhanced-NR-2-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00133-Enhanced-NR-2-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07496-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09982-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09982.jpg"
+          "compressed": "photography/yohito/compressed/DSC07494-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00029-3-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00029-3.jpg"
+          "compressed": "photography/yohito/compressed/DSC07537-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00040-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00040.jpg"
+          "compressed": "photography/yohito/compressed/DSC07720-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00029-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00029-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07683-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00086-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00086.jpg"
+          "compressed": "photography/yohito/compressed/DSC07627-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00133-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00133.jpg"
+          "compressed": "photography/yohito/compressed/DSC07784-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09982-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09982-Enhanced-NR-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07746-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC00090-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC00090.jpg"
+          "compressed": "photography/yohito/compressed/DSC07815-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09982-Enhanced-NR-2-2-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09982-Enhanced-NR-2-2.jpg"
+          "compressed": "photography/yohito/compressed/DSC07750-compressed.jpg"
         },
         {
-          "compressed": "photography/ofwhatremains/20250626/compressed/DSC09982-Enhanced-NR-2-3-compressed.jpg",
-          "original": "photography/ofwhatremains/20250626/original/DSC09982-Enhanced-NR-2-3.jpg"
+          "compressed": "photography/yohito/compressed/DSC07591-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07989-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07782-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07768-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07965-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07780-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07757-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07565-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07834-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07567-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07943-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07604-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07985-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07824-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07763-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07777-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07574-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC08041-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07507-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07499-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC08031-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07470-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07855-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07712-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07698-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07883-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07930-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07884-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07927-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07891-compressed.jpg"
+        },
+        {
+          "compressed": "photography/yohito/compressed/DSC07488-compressed.jpg"
         }
       ],
-      "coverImage": "photography/ofwhatremains/20250626/compressed/DSC00063-compressed.jpg"
+      "coverImage": "photography/yohito/compressed/DSC07485-compressed.jpg",
+      "url": "https://www.instagram.com/yuhito3/"
     },
     {
-      "id": "mateo",
-      "title": "Mateo Briscoe & The Slothbois at Kilowatt",
-      "description": "Mateo Briscoe & The Slothbois at Kilowatt on 2024-11-05.",
+      "id": "famichiken",
+      "title": "Famichiken",
+      "description": "Famichiken at Ruby Room, Shibuya on 2025-04-05.",
+      "date_captured": "2025-04-05",
       "images": [
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00648-Enhanced-NR-3-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00648-Enhanced-NR-3.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08818-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00648-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00648-Enhanced-NR-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08821-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00658-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00658.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08702-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00755-Enhanced-NR-3-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00755-Enhanced-NR-3.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08701-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00735-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00735-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08729-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00648-Enhanced-NR-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00648-Enhanced-NR.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08714-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00755-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00755-Enhanced-NR-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08739-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00648-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00648.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08723-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00417-3-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00417-3.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08737-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00417-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00417.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08736-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00603-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00603.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08696-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00743-Enhanced-NR-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00743-Enhanced-NR.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08709-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00755-Enhanced-NR-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00755-Enhanced-NR.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08813-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00755-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00755.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08806-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00696-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00696-Enhanced-NR-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08812-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00743-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00743-Enhanced-NR-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08796-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00743-Enhanced-NR-3-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00743-Enhanced-NR-3.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08791-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00743-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00743.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08800-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00521-2-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00521-2.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08751-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00534-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00534.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08792-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00521-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00521.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08816-compressed.jpg"
         },
         {
-          "compressed": "photography/mateo/20250626/compressed/DSC00696-Enhanced-NR-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00696-Enhanced-NR.jpg"
-        },
-        {
-          "compressed": "photography/mateo/20250626/compressed/DSC00696-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00696.jpg"
-        },
-        {
-          "compressed": "photography/mateo/20250626/compressed/DSC00735-compressed.jpg",
-          "original": "photography/mateo/20250626/original/DSC00735.jpg"
+          "compressed": "photography/famichiken/compressed/DSC08803-compressed.jpg"
         }
       ],
-      "coverImage": "photography/mateo/20250626/compressed/DSC00648-Enhanced-NR-3-compressed.jpg"
+      "coverImage": "photography/famichiken/compressed/DSC08818-compressed.jpg"
     },
     {
-      "id": "intica",
-      "title": "Intica at Kilowatt",
-      "description": "Intica at Kilowatt on 2024-11-05.",
+      "id": "moonlightmafia",
+      "title": "Moonlight Mafia",
+      "description": "Moonlight Mafia at Ruby Room, Shibuya on 2025-04-05.",
+      "date_captured": "2025-04-05",
       "images": [
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01171-2-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01171-2-Enhanced-NR-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08371-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01343-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01343.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08359-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01257-2-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01257-2-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08600-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01257-2-2-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01257-2-2-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08548-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01422-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01422.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08366-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01171-2-Enhanced-NR-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01171-2-Enhanced-NR.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08372-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01201-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01201-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08602-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC00834-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC00834.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08405-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01343-Enhanced-NR-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01343-Enhanced-NR.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08388-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC00965-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC00965-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08376-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC00814-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC00814.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08598-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01257-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01257-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08229-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC00965-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC00965.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08299-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC00834-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC00834-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08474-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01343-Enhanced-NR-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01343-Enhanced-NR-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08676-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01215-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01215.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08689-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01201-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01201.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08677-compressed.jpg"
         },
         {
-          "compressed": "photography/intica/20250626/compressed/DSC01171-2-compressed.jpg",
-          "original": "photography/intica/20250626/original/DSC01171-2.jpg"
+          "compressed": "photography/moonlightmafia/compressed/DSC08311-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08089-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08274-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08315-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08473-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08261-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08079-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08643-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08680-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08483-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08252-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08318-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08683-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08127-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08319-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08331-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08286-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08292-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08080-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08335-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08081-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08242-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08295-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08322-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08444-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08685-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08684-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08230-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08379-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08582-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08622-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08391-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08226-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08550-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08157-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08625-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08624-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08368-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08585-compressed.jpg"
+        },
+        {
+          "compressed": "photography/moonlightmafia/compressed/DSC08552-compressed.jpg"
         }
       ],
-      "coverImage": "photography/intica/20250626/compressed/DSC01171-2-Enhanced-NR-2-compressed.jpg"
+      "coverImage": "photography/moonlightmafia/compressed/DSC08371-compressed.jpg",
+      "url": "https://www.instagram.com/themoonlightmafia/"
     },
     {
-      "id": "Lizze",
-      "title": "Lizzie Waters at playing in a backyard",
-      "description": "Lizzie Waters at playing in a backyard on 2024-10-18.",
+      "id": "jun",
+      "title": "Jun",
+      "description": "Jun at Ruby Room, Shibuya on 2025-04-05.",
+      "date_captured": "2025-04-05",
       "images": [
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09735-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09735.jpg"
+          "compressed": "photography/jun/compressed/DSC07457-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09657-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09657.jpg"
+          "compressed": "photography/jun/compressed/DSC07431-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09733-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09733.jpg"
+          "compressed": "photography/jun/compressed/DSC07419-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09691-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09691.jpg"
+          "compressed": "photography/jun/compressed/DSC07418-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09646-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09646.jpg"
+          "compressed": "photography/jun/compressed/DSC07426-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09686-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09686.jpg"
+          "compressed": "photography/jun/compressed/DSC07432-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09583-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09583.jpg"
+          "compressed": "photography/jun/compressed/DSC07423-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09623-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09623.jpg"
+          "compressed": "photography/jun/compressed/DSC07421-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09608-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09608.jpg"
+          "compressed": "photography/jun/compressed/DSC07438-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09619-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09619.jpg"
+          "compressed": "photography/jun/compressed/DSC07411-compressed.jpg"
         },
         {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09592-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09592.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09762-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09762.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09614-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09614.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09639-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09639.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09572-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09572.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09661-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09661.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09703-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09703.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09666-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09666.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09707-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09707.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09667-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09667.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09738-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09738.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09658-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09658.jpg"
-        },
-        {
-          "compressed": "photography/Lizze/20250626/compressed/DSC09664-compressed.jpg",
-          "original": "photography/Lizze/20250626/original/DSC09664.jpg"
+          "compressed": "photography/jun/compressed/DSC07406-compressed.jpg"
         }
       ],
-      "coverImage": "photography/Lizze/20250626/compressed/DSC09735-compressed.jpg"
+      "coverImage": "photography/jun/compressed/DSC07457-compressed.jpg",
+      "url": "https://www.instagram.com/junokada78/"
     },
     {
-      "id": "Gavi",
-      "title": "Gavi Silverman at playing in a backyard",
-      "description": "Gavi Silverman at playing in a backyard on 2024-10-18.",
+      "id": "dump",
+      "title": "Dumpster Love",
+      "description": "Dumpster Love at Golden Gate Park on 2024-12-07.",
+      "date_captured": "2024-12-07",
       "images": [
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09906-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09906.jpg"
+          "compressed": "photography/dump/compressed/DSC03812-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09871-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09871.jpg"
+          "compressed": "photography/dump/compressed/DSC03502-2-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09864-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09864.jpg"
+          "compressed": "photography/dump/compressed/DSC03559-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09870-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09870.jpg"
+          "compressed": "photography/dump/compressed/DSC03802-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09861-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09861.jpg"
+          "compressed": "photography/dump/compressed/DSC03551-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09888-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09888.jpg"
+          "compressed": "photography/dump/compressed/DSC03689-Enhanced-NR-compressed.jpg"
         },
         {
-          "compressed": "photography/Gavi/20250626/compressed/DSC09892-compressed.jpg",
-          "original": "photography/Gavi/20250626/original/DSC09892.jpg"
+          "compressed": "photography/dump/compressed/DSC03643-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dump/compressed/DSC03580-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dump/compressed/DSC03767-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/dump/compressed/DSC03799-Enhanced-NR-compressed.jpg"
         }
       ],
-      "coverImage": "photography/Gavi/20250626/compressed/DSC09906-compressed.jpg"
+      "coverImage": "photography/dump/compressed/DSC03812-Enhanced-NR-compressed.jpg",
+      "url": "https://www.instagram.com/dumpster.love/"
+    },
+    {
+      "id": "luke",
+      "title": "Luke Todd Smith",
+      "description": "Luke Todd Smith at Bridge and Tunnel Brewery on 2024-11-17.",
+      "date_captured": "2024-11-17",
+      "images": [
+        {
+          "compressed": "photography/luke/compressed/DSC03355-Enhanced-NR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/luke/compressed/DSC03351-Enhanced-NR-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/luke/compressed/DSC03376-compressed.jpg"
+        },
+        {
+          "compressed": "photography/luke/compressed/DSC03370-Enhanced-NR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/luke/compressed/DSC03355-Enhanced-NR-compressed.jpg",
+      "url": "https://www.instagram.com/luketodd_smith/"
+    },
+    {
+      "id": "duffthompson",
+      "title": "Duff Thompson",
+      "description": "Duff Thompson at Bottom of the Hill on 2024-08-22.",
+      "date_captured": "2024-08-22",
+      "images": [
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03423-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03431-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03427-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03403-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03429-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03431-2-compressed.jpg"
+        },
+        {
+          "compressed": "photography/duffthompson/compressed/DSC03413-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/duffthompson/compressed/DSC03423-compressed.jpg",
+      "url": "https://www.instagram.com/duff.thompson/"
+    },
+    {
+      "id": "stephgreen",
+      "title": "Steph Green",
+      "description": "Steph Green at Bottom of the Hill on 2024-08-22.",
+      "date_captured": "2024-08-22",
+      "images": [
+        {
+          "compressed": "photography/stephgreen/compressed/DSC03347-compressed.jpg"
+        },
+        {
+          "compressed": "photography/stephgreen/compressed/DSC03354-compressed.jpg"
+        },
+        {
+          "compressed": "photography/stephgreen/compressed/DSC03339-compressed.jpg"
+        },
+        {
+          "compressed": "photography/stephgreen/compressed/DSC03358-compressed.jpg"
+        },
+        {
+          "compressed": "photography/stephgreen/compressed/DSC03373-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/stephgreen/compressed/DSC03347-compressed.jpg",
+      "url": "https://www.instagram.com/stephgreensongs/"
     },
     {
       "id": "Cupcup",
       "title": "Cup Cup playing in a backyard",
       "description": "Cup Cup playing in a backyard on 2024-10-18.",
+      "date_captured": "2024-10-18",
       "images": [
         {
-          "compressed": "photography/Cupcup/20250626/compressed/DSC09838-compressed.jpg",
-          "original": "photography/Cupcup/20250626/original/DSC09838.jpg"
+          "compressed": "photography/Cupcup/compressed/DSC09838-compressed.jpg"
         },
         {
-          "compressed": "photography/Cupcup/20250626/compressed/DSC09783-compressed.jpg",
-          "original": "photography/Cupcup/20250626/original/DSC09783.jpg"
+          "compressed": "photography/Cupcup/compressed/DSC09783-compressed.jpg"
         },
         {
-          "compressed": "photography/Cupcup/20250626/compressed/DSC09561-compressed.jpg",
-          "original": "photography/Cupcup/20250626/original/DSC09561.jpg"
+          "compressed": "photography/Cupcup/compressed/DSC09561-compressed.jpg"
         }
       ],
-      "coverImage": "photography/Cupcup/20250626/compressed/DSC09838-compressed.jpg"
+      "coverImage": "photography/Cupcup/compressed/DSC09838-compressed.jpg",
+      "url": "https://www.instagram.com/cupcup_theband/"
     },
     {
-      "id": "MCC",
-      "title": "Mid Course Correction at Bottom of the Hill",
-      "description": "Mid Course Correction at Bottom of the Hill on 2024-08-28.",
+      "id": "Lizze",
+      "title": "Lizzie Waters",
+      "description": "Lizzie Waters at playing in a backyard on 2024-10-18.",
+      "date_captured": "2024-10-18",
       "images": [
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03755-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03755.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09735-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03682-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03682-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09657-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03660-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03660-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09733-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03814-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03814-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09691-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03645-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03645-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09646-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03661-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03661-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09686-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03689-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03689-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09583-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03705-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03705.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09623-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03699-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03699.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09608-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03675-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03675-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09619-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03797-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03797-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09592-compressed.jpg"
         },
         {
-          "compressed": "photography/MCC/20250626/compressed/DSC03693-2-compressed.jpg",
-          "original": "photography/MCC/20250626/original/DSC03693-2.jpg"
+          "compressed": "photography/Lizze/compressed/DSC09762-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09614-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09639-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09572-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09661-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09703-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09666-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09707-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09667-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09738-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09658-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Lizze/compressed/DSC09664-compressed.jpg"
         }
       ],
-      "coverImage": "photography/MCC/20250626/compressed/DSC03755-compressed.jpg"
+      "coverImage": "photography/Lizze/compressed/DSC09735-compressed.jpg",
+      "url": "https://www.instagram.com/lizzie_waters/"
+    },
+    {
+      "id": "Gavi",
+      "title": "Gavi Silverman",
+      "description": "Gavi Silverman at playing in a backyard on 2024-10-18.",
+      "date_captured": "2024-10-18",
+      "images": [
+        {
+          "compressed": "photography/Gavi/compressed/DSC09906-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09871-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09864-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09870-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09861-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09888-compressed.jpg"
+        },
+        {
+          "compressed": "photography/Gavi/compressed/DSC09892-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/Gavi/compressed/DSC09906-compressed.jpg",
+      "url": "https://www.instagram.com/gavisilverman/"
+    },
+    {
+      "id": "tellme",
+      "title": "Tell Me Tell Me",
+      "description": "Tell Me Tell Me at Kilowatt on 2025-06-14.",
+      "date_captured": "2025-06-14",
+      "images": [
+        {
+          "compressed": "photography/tellme/compressed/DSC06818-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06825-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC08086-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC08112-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06995-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC07107-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06697-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC08193-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06838-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06899-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06773-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06966-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC07088-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06765-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06793-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06955-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC07052-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06672-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC08141-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tellme/compressed/DSC06659-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/tellme/compressed/DSC06818-Enhanced-SR-compressed.jpg",
+      "url": "https://www.instagram.com/tellmetellmeband/"
+    },
+    {
+      "id": "ian",
+      "title": "Ian Santilliano",
+      "description": "Ian Santilliano at Kilowatt on 2025-06-14.",
+      "date_captured": "2025-06-14",
+      "images": [
+        {
+          "compressed": "photography/ian/compressed/DSC08086-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC08112-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC08193-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC06649-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC06611-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC06635-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/ian/compressed/DSC08141-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/ian/compressed/DSC08086-Enhanced-SR-compressed.jpg",
+      "url": "https://www.instagram.com/ian_santillano/"
+    },
+    {
+      "id": "connor",
+      "title": "Connor Morrison",
+      "description": "Connor Morrison at Kilowatt on 2025-06-14.",
+      "date_captured": "2025-06-14",
+      "images": [
+        {
+          "compressed": "photography/connor/compressed/DSC07393-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC08086-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC08112-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07285-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07472-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07373-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07334-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC08193-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07204-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07545-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07255-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07381-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07537-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07460-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07160-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC08112-Enhanced-SR(1)-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07198-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07567-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07428-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07221-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC07490-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/connor/compressed/DSC08141-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/connor/compressed/DSC07393-Enhanced-SR-compressed.jpg",
+      "url": "https://www.instagram.com/connormorrisonmusic/"
+    },
+    {
+      "id": "soap",
+      "title": "The Soap Box Salute",
+      "description": "The Soap Box Salute at Kilowatt on 2025-06-14.",
+      "date_captured": "2025-06-14",
+      "images": [
+        {
+          "compressed": "photography/soap/compressed/DSC08004-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08086-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08112-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07904-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07831-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08052-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07694-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07942-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08030-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07765-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07996-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07658-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07712-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08193-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07603-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07781-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07620-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07638-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07605-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07769-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC08141-Enhanced-SR-compressed.jpg"
+        },
+        {
+          "compressed": "photography/soap/compressed/DSC07629-Enhanced-SR-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/soap/compressed/DSC08004-Enhanced-SR-compressed.jpg",
+      "url": "https://www.instagram.com/thesoapboxsalute/"
+    },
+    {
+      "id": "tits",
+      "title": "Furious Tits",
+      "description": "Furious Tits at Rickshaw Stop in San Francisco on 2025-06-07.",
+      "date_captured": "2025-06-07",
+      "images": [
+        {
+          "compressed": "photography/tits/compressed/DSC09443-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09331-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09047-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00076-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC01220-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09454-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09722-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09285-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00075-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09294-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09478-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00106-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09903-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09533-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00067-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00113-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09385-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09227-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09435-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09423-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC08932-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09152-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09432-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09426-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09784-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09551-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC08904-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00141-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00182-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC08911-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09833-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09006-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09163-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09638-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC08915-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC01267-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09439-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09891-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00041-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC08965-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC00045-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09473-compressed.jpg"
+        },
+        {
+          "compressed": "photography/tits/compressed/DSC09739-compressed.jpg"
+        }
+      ],
+      "coverImage": "photography/tits/compressed/DSC09443-compressed.jpg",
+      "url": "https://www.instagram.com/furioustits/"
+    },
+    {
+      "id": "bones",
+      "title": "Thrown Out Bones",
+      "description": "Thrown Out Bones at the Rickshaw Stop in San Francisco on 2025-06-07.",
+      "date_captured": "2025-06-07",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/thrownoutbones/"
+    },
+    {
+      "id": "dinnerfor4",
+      "title": "Dinner for 4 playing",
+      "description": "Dinner for 4 playing at the Outer Sunset Farmer's Market on 2025-05-26.",
+      "date_captured": "2025-05-26",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/dinnerfor4.mp3/"
+    },
+    {
+      "id": "lizzie",
+      "title": "Caroline, Flora, Lizzie, Tommy, and others",
+      "description": "Caroline, Flora, Lizzie, Tommy, and others at the Bizzare Cafe, San Francisco on 2025-06-06.",
+      "date_captured": "2025-06-06",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/lizzie_waters/"
+    },
+    {
+      "id": "intica",
+      "title": "Intica",
+      "description": "Intica at Kilowatt on 2024-11-05.",
+      "date_captured": "2024-11-05",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/inticavibes/"
+    },
+    {
+      "id": "mateo",
+      "title": "Mateo Briscoe & The Slothbois",
+      "description": "Mateo Briscoe & The Slothbois at Kilowatt on 2024-11-05.",
+      "date_captured": "2024-11-05",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/mateo_briscoe/"
+    },
+    {
+      "id": "ofwhatremains",
+      "title": "Of What Remains",
+      "description": "Of What Remains at Remains at Kilowatt on 2024-11-05.",
+      "date_captured": "2024-11-05",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/ofwhatremains00/"
+    },
+    {
+      "id": "ochamememe",
+      "title": "Ochamememe",
+      "description": "Ochamememe at Live Haus in Shimokitazawa on 2025-03-30.",
+      "date_captured": "2025-03-30",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/ochamememe/"
+    },
+    {
+      "id": "quincampoix",
+      "title": "Quincampoix",
+      "description": "Quincampoix at Live Haus in Shimokitazawa on 2025-03-30.",
+      "date_captured": "2025-03-30",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/qcp_jp/"
+    },
+    {
+      "id": "onett",
+      "title": "Onett",
+      "description": "Onett at Live Haus in Shimokitazawa on 2025-03-30.",
+      "date_captured": "2025-03-30",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/onett1209/"
+    },
+    {
+      "id": "space",
+      "title": "Space Goat",
+      "description": "Space Goat at at the Faight Collective on 2024-05-25.",
+      "date_captured": "2024-05-25",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/spacegoatjams/"
+    },
+    {
+      "id": "mike",
+      "title": "Michael Michael Motorcycle",
+      "description": "Michael Michael Motorcycle at the 4 Star Theater in San Francisco on 2025-07-10.",
+      "date_captured": "2025-07-10",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/michaelmichaelmotorcycleband/"
+    },
+    {
+      "id": "rev",
+      "title": "The Revelator",
+      "description": "The Revelator at 4 Star Theater in San Francisco on 2025-07-10.",
+      "date_captured": "2025-07-10",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/asktherevelator/"
+    },
+    {
+      "id": "tincan",
+      "title": "Tin Can Talker",
+      "description": "Tin Can Talker at 4 Star Theater in San Francisco on 2025-07-10.",
+      "date_captured": "2025-07-10",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/tincantalker/"
+    },
+    {
+      "id": "rowanblack",
+      "title": "Rowan Black",
+      "description": "Rowan Black at O'Rielly's Pub in San Francisco on 2025-05-01.",
+      "date_captured": "2025-05-01",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/its_rowan_black/"
+    },
+    {
+      "id": "failuretoappear",
+      "title": "Failure to Appear",
+      "description": "Failure to Appear at O'Rielly's Pub in San Francisco on 2025-05-01.",
+      "date_captured": "2025-05-01",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/failuretoappearband/"
+    },
+    {
+      "id": "traumacheez",
+      "title": "Trauma Cheez",
+      "description": "Trauma Cheez at O'Rielly's Pub in San Francisco on 2025-05-01.",
+      "date_captured": "2025-05-01",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/traumacheez/"
+    },
+    {
+      "id": "avidx",
+      "title": "Avidx",
+      "description": "Avidx at O'Rielly's Pub in San Francisco on 2025-05-01.",
+      "date_captured": "2025-05-01",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/avidxmusic/"
     },
     {
       "id": "IYSS",
-      "title": "If You Say So at Bottom of the Hill",
+      "title": "If You Say So",
       "description": "If You Say So at Bottom of the Hill on 2024-08-28.",
-      "images": [
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03581-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03581.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03580-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03580.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03543-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03543.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03540-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03540.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03592-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03592.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03553-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03553.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03493-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03493.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03524-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03524.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03461-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03461.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03588-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03588.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03562-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03562.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03602-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03602.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03571-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03571.jpg"
-        },
-        {
-          "compressed": "photography/IYSS/20250626/compressed/DSC03638-compressed.jpg",
-          "original": "photography/IYSS/20250626/original/DSC03638.jpg"
-        }
-      ],
-      "coverImage": "photography/IYSS/20250626/compressed/DSC03581-compressed.jpg"
+      "date_captured": "2024-08-28",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/ifyousaysoband/"
+    },
+    {
+      "id": "MCC",
+      "title": "Mid Course Correction",
+      "description": "Mid Course Correction at Bottom of the Hill on 2024-08-28.",
+      "date_captured": "2024-08-28",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/midcoursecorrectiontrio/"
     },
     {
       "id": "HI4H",
-      "title": "H is for Hector at Bottom of the Hill",
+      "title": "H is for Hector",
       "description": "H is for Hector at Bottom of the Hill on 2024-08-28.",
-      "images": [
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC04007-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC04007.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03974-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03974.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03977-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03977.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC04077-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC04077.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03887-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03887.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03933-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03933.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC04053-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC04053.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03890-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03890.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC04020-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC04020.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC04034-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC04034.jpg"
-        },
-        {
-          "compressed": "photography/HI4H/20250626/compressed/DSC03941-compressed.jpg",
-          "original": "photography/HI4H/20250626/original/DSC03941.jpg"
-        }
-      ],
-      "coverImage": "photography/HI4H/20250626/compressed/DSC04007-compressed.jpg"
+      "date_captured": "2024-08-28",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/his4hector/"
     },
     {
-      "id": "stephgreen",
-      "title": "Steph Green at Bottom of the Hill",
-      "description": "Steph Green at Bottom of the Hill on 2024-08-22.",
-      "images": [
-        {
-          "compressed": "photography/stephgreen/20250626/compressed/DSC03347-compressed.jpg",
-          "original": "photography/stephgreen/20250626/original/DSC03347.jpg"
-        },
-        {
-          "compressed": "photography/stephgreen/20250626/compressed/DSC03354-compressed.jpg",
-          "original": "photography/stephgreen/20250626/original/DSC03354.jpg"
-        },
-        {
-          "compressed": "photography/stephgreen/20250626/compressed/DSC03339-compressed.jpg",
-          "original": "photography/stephgreen/20250626/original/DSC03339.jpg"
-        },
-        {
-          "compressed": "photography/stephgreen/20250626/compressed/DSC03358-compressed.jpg",
-          "original": "photography/stephgreen/20250626/original/DSC03358.jpg"
-        },
-        {
-          "compressed": "photography/stephgreen/20250626/compressed/DSC03373-compressed.jpg",
-          "original": "photography/stephgreen/20250626/original/DSC03373.jpg"
-        }
-      ],
-      "coverImage": "photography/stephgreen/20250626/compressed/DSC03347-compressed.jpg"
+      "id": "connormorrison",
+      "title": "Connor Morrison",
+      "description": "Connor Morrison at O'Rielly's Pub in San Francisco on 2025-05-24.",
+      "date_captured": "2025-05-24",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/connormorrisonmusic/"
     },
     {
-      "id": "duffthompson",
-      "title": "Duff Thompson at Bottom of the Hill",
-      "description": "Duff Thompson at Bottom of the Hill on 2024-08-22.",
-      "images": [
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03423-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03423.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03431-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03431.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03427-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03427.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03403-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03403.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03429-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03429.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03431-2-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03431-2.jpg"
-        },
-        {
-          "compressed": "photography/duffthompson/20250626/compressed/DSC03413-compressed.jpg",
-          "original": "photography/duffthompson/20250626/original/DSC03413.jpg"
-        }
-      ],
-      "coverImage": "photography/duffthompson/20250626/compressed/DSC03423-compressed.jpg"
-    }, {
-      "id": "2024-05-25",
-      "title": "Space Goat at the Faight Collective",
-      "description": "Space Goat at the Faight Collective on 2024-05-25.",
-      "images": [
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC03025-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC03025.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC03024-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC03024.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC03035-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC03035.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC02984-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC02984.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC02973-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC02973.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC02963-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC02963.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC02976-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC02976.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC02961-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC02961.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC03006-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC03006.jpg"
-        },
-        {
-          "compressed": "photography/2024-05-25/20250626/compressed/DSC03004-compressed.jpg",
-          "original": "photography/2024-05-25/20250626/original/DSC03004.jpg"
-        }
-      ],
-      "coverImage": "photography/2024-05-25/20250626/compressed/DSC03025-compressed.jpg"
+      "id": "donttellkate",
+      "title": "Don't Tell Kate",
+      "description": "Don't Tell Kate at O'Rielly's Pub in San Francisco on 2025-05-24.",
+      "date_captured": "2025-05-24",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/donttellkate/"
+    },
+    {
+      "id": "chemlab",
+      "title": "Chemlab",
+      "description": "Chemlab at O'Rielly's Pub in San Francisco on 2025-05-24.",
+      "date_captured": "2025-05-24",
+      "images": [],
+      "coverImage": "",
+      "url": "https://www.instagram.com/chemlab_music/"
     }
   ]
 }

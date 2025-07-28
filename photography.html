@@ -178,8 +178,7 @@
             transition: color 0.3s ease;
         }
 
-        .fullscreen-close:hover,
-        .fullscreen-download:hover {
+        .fullscreen-close:hover {
             color: #DFD7BF;
         }
 
@@ -230,7 +229,6 @@
 
     <div class="fullscreen-view" id="fullscreen-view">
         <div class="fullscreen-controls">
-            <button class="fullscreen-download" onclick="downloadFullImage()"><i class="fas fa-download"></i></button>
             <button class="fullscreen-close" onclick="closeFullscreen()"><i class="fas fa-times"></i></button>
         </div>
         <div class="fullscreen-loading" id="fullscreen-loading">Loading a very high-resolution image, this may take a few seconds...</div>
@@ -252,7 +250,15 @@
 
         function renderGalleryGroups() {
             const container = document.getElementById('gallery-groups');
-            galleryData.groups.forEach(group => {
+            
+            // Sort groups by date in reverse chronological order (most recent first)
+            const sortedGroups = [...galleryData.groups].sort((a, b) => {
+                const dateA = extractDateFromGroup(a);
+                const dateB = extractDateFromGroup(b);
+                return dateB - dateA; // Reverse order (newest first)
+            });
+            
+            sortedGroups.forEach(group => {
                 const groupCard = document.createElement('div');
                 groupCard.className = 'group-card';
                 groupCard.onclick = () => openGroupModal(group);
@@ -272,6 +278,28 @@
                 container.appendChild(groupCard);
             });
         }
+        
+        function extractDateFromGroup(group) {
+            // First, try to extract date from date_captured field (from directory structure)
+            if (group.date_captured) {
+                return new Date(group.date_captured);
+            }
+            
+            // Fallback: try to extract date from ID if it's in YYYY-MM-DD format
+            const dateIdMatch = group.id.match(/^(\d{4}-\d{2}-\d{2})$/);
+            if (dateIdMatch) {
+                return new Date(dateIdMatch[1]);
+            }
+            
+            // Fallback: extract date from description using regex
+            const dateMatch = group.description.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+                return new Date(dateMatch[1]);
+            }
+            
+            // If no date found, return a very old date so it appears last
+            return new Date('1900-01-01');
+        }
 
         function openGroupModal(group) {
             const modal = document.getElementById('group-modal');
@@ -279,7 +307,13 @@
             const modalDescription = document.getElementById('modal-description');
             const modalGallery = document.getElementById('modal-gallery');
 
-            modalTitle.textContent = group.title;
+            // Set the title as a hyperlink if URL is present
+            if (group.url) {
+                modalTitle.innerHTML = `<a href="${group.url}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">${group.title}</a>`;
+            } else {
+                modalTitle.textContent = group.title;
+            }
+            
             modalDescription.textContent = group.description;
             modalGallery.innerHTML = '';
 
@@ -358,18 +392,7 @@
             }
         });
 
-        function downloadFullImage() {
-            const fullscreenImage = document.getElementById('fullscreen-image');
-            const originalUrl = fullscreenImage.dataset.original;
-            
-            // Create a temporary link to trigger the download
-            const link = document.createElement('a');
-            link.href = originalUrl;
-            link.download = originalUrl.split('/').pop(); // Use the filename from the URL
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-        }
+
 
         // Load gallery data when page loads
         loadGalleryData();

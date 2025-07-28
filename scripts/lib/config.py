@@ -7,6 +7,8 @@ class Config:
     def __init__(self, config_path: str):
         self.config = self._load_config(config_path)
         self._validate_config()
+        # Store the directory containing the config file for relative path resolution
+        self.config_dir = os.path.dirname(os.path.abspath(config_path))
 
     def _load_config(self, config_path: str) -> Dict:
         """Load configuration from JSON file."""
@@ -18,7 +20,7 @@ class Config:
         required_fields = {
             's3': ['bucket', 'region', 'base_path'],
             'image_processing': ['max_size', 'quality', 'formats'],
-            'paths': ['gallery_config', 'image_dirs']
+            'paths': ['gallery_config', 'photography_collection']
         }
 
         for section, fields in required_fields.items():
@@ -38,12 +40,14 @@ class Config:
 
     def get_gallery_config_path(self) -> str:
         """Get the gallery configuration file path."""
-        return os.path.join(
-            os.path.dirname(os.path.dirname(__file__)),
-            self.config['paths']['gallery_config']
-        )
+        gallery_config_path = self.config['paths']['gallery_config']
+        if os.path.isabs(gallery_config_path):
+            return gallery_config_path
+        return os.path.join(self.config_dir, gallery_config_path)
 
-    def get_image_dirs(self) -> list[str]:
-        """Get the list of image directory paths."""
-        base_dir = os.path.dirname(os.path.dirname(__file__))
-        return [os.path.join(base_dir, path) for path in self.config['paths']['image_dirs']]
+    def get_photography_collection_path(self) -> str:
+        """Get the photography collection directory path."""
+        collection_path = self.config['paths']['photography_collection']
+        if os.path.isabs(collection_path):
+            return collection_path
+        return os.path.join(self.config_dir, collection_path)
